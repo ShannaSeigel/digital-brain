@@ -15,6 +15,12 @@ test, let's reference the SPIKES paper. i'm not pointing to a PDF... because? So
 
 [(Baile, 2000, SPIKES Protocol)]((Baile,%202000,%20SPIKES%20Protocol).md)
 
+contrast, my normally named note [lewis-2020-redeem-soul-of-nation](lewis-2020-redeem-soul-of-nation.md)
+
+> the difference between these two is the case, space, and punctuation
+
+additional test, no spaces or capitals, just parens [(stevenson-2012-injustice-ted-talk)]((stevenson-2012-injustice-ted-talk).md)
+
 it does show up nicely in preview mode as (author, year, topic)
 how much could this fuck up publishing? I'd have capital letters, punctuation, and spaces in the filename.
 
