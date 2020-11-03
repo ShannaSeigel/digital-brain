@@ -29,6 +29,11 @@ Under review
 
 <br>
 
+📌 
+[-Focus Mode 🎧](-Focus%20Mode%20%F0%9F%8E%A7.md) Do i want a link to this note here? do i want this note in my root folder along with my index page, etc? feels out of place but maybe that's because it could be a reference, it could be a summary about ideas. or maybe its more like an experiment log?
+
+<br>
+
 ### Reference Info
 link back to this note with `,+h` to get `<small>← [Home](START)</small>`
 
