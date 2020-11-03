@@ -6,7 +6,7 @@
 <h5 align=center size=small><i>she/her, genetic counselor, crafter, thinker, music lover</i></h5>
 </p>
 
-Welcome to my sandbox for learning about GitHub Pages. I'll also be exploring how to host my [zettelkasten/knowledge garden/other titles I don't know yet] online. At some point I may even add a blog.
+Welcome to my sandbox for exploring how to host my [zettelkasten/knowledge garden/other titles I don't know yet] online. At some point I may even add a blog.
 
 I'm keeping a list of some [questions and experiments here](shanna-fyi/personal-site-experiment-log).
 
