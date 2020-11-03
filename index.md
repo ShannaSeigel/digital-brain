@@ -15,11 +15,11 @@ I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <
 ------------------------
 <small>↳ <i>Modified Nov-02-2020</i></small>
 <br><br><br>
-<!--obsidian--><a href="https://forum.obsidian.md/u/shanna" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/ShannaSeigel.github.io/master/_images/obsidian-sq.png" width="26"></a>&nbsp;&nbsp;
-<!--github--> <a href="https://github.com/ShannaSeigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/ShannaSeigel.github.io/master/_images/dave-gandy-socials/github-logo.png" width="25"></a>&nbsp;&nbsp;&nbsp;
-<!--reddit <a href="https://www.reddit.com/user/Shanna_Seigel/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/ShannaSeigel.github.io/master/_images/social-icon-reddit.png" width="25"></a>&nbsp;&nbsp;&nbsp;-->
-<!--twitter--> <a href="https://twitter.com/ShannaSeigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/ShannaSeigel.github.io/master/_images/social-icon-twitter.png" width="25"></a>&nbsp;&nbsp;&nbsp;
-<!--linkedin--> <a href="https://www.linkedin.com/in/shannaseigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/ShannaSeigel.github.io/master/_images/dave-gandy-socials/linkedin-letters.png" width="25"></a>&nbsp;&nbsp;&nbsp;
+<!--obsidian--><a href="https://forum.obsidian.md/u/shanna" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/_images/obsidian-sq.png" width="26"></a>&nbsp;&nbsp;
+<!--github--> <a href="https://github.com/ShannaSeigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/_images/dave-gandy-socials/github-logo.png" width="25"></a>&nbsp;&nbsp;&nbsp;
+<!--reddit <a href="https://www.reddit.com/user/Shanna_Seigel/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/_images/social-icon-reddit.png" width="25"></a>&nbsp;&nbsp;&nbsp;-->
+<!--twitter--> <a href="https://twitter.com/ShannaSeigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/_images/social-icon-twitter.png" width="25"></a>&nbsp;&nbsp;&nbsp;
+<!--linkedin--> <a href="https://www.linkedin.com/in/shannaseigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/_images/dave-gandy-socials/linkedin-sign.png" width="25"></a>&nbsp;&nbsp;&nbsp;
 
 <!--
 saw tutorial on opening links in new tab that rec's extra security to prevent phishing:
