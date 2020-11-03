@@ -1,4 +1,25 @@
 
-.DS_Store
+# Folders to ignore
 .obsidian/
-Sis-zk/
+zk-sgs/
+!nbox
+bookmark-inspo-tagged
+experiment-logs
+planning-docs✓
+resources
+slipbox to review and add back
+use-refs
+zk-lyt-pks
+zk-private
+Zk-lyt-pks/unpublish
+
+# Files to Ignore
+.DS_Store
+🎨 Obsidian Themes.md
+📂 Obsidian Folder Purposes.md
+📜 Obsidian Tags vs Pages.md
+Action Tags.md
+Focus Mode 🎧.md
+📝 Obsidian Format Text.md
+🔗 Obsidian Links & Images.md
+🖐🏼 Obsidian Shortcut Keys.md
