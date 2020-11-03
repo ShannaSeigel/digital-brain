@@ -1,4 +1,4 @@
-<small>← [Home](../home)</small> / <small>← [LYT-course-moc-2020](../zk-lyt-system/mocs/LYT-course-moc-2020.md)</small>
+<small>← [Home](../page-1)</small> / <small>← [LYT-course-moc-2020](../zk-lyt-system/mocs/LYT-course-moc-2020.md)</small>
 # Nick Milo / Linking Your Thinking
 
 First came across user on Obsidian, shared his LYT system, "Linking Your Thinking." Has since created a [youtube channel](https://www.youtube.com/watch?v=p8S06HUpF9M) and workshop of the same name.
