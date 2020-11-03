@@ -1,5 +1,5 @@
 # Shanna's Digital Brain Start Page 👩🏻
-**Welcome, me! **
+**Welcome, me!**
 <small>[Back to shanna.fyi](https://shanna.fyi/)</small>
 
 — — — Page under development 🚧 — — —

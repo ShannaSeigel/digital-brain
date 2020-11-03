@@ -20,7 +20,7 @@ how much could this fuck up publishing? I'd have capital letters, punctuation, a
 
 pushed changes in references folder to github, let's see what happens.
 
-
+i also had to add a link to this note on my homepage. i can get to this note via markdown link just fine but the link to the baile note wants to give me a markdown file and not an html, why??
 
 
 ---
