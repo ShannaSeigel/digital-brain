@@ -18,6 +18,9 @@ test, let's reference the SPIKES paper. i'm not pointing to a PDF... because? So
 it does show up nicely in preview mode as (author, year, topic)
 how much could this fuck up publishing? I'd have capital letters, punctuation, and spaces in the filename.
 
+pushed changes in references folder to github, let's see what happens.
+
+
 
 
 ---
