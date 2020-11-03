@@ -10,7 +10,7 @@ Welcome to my sandbox for learning about GitHub Pages. I'll also be exploring ho
 
 I'm keeping a list of some [questions and experiments here](shanna-fyi/personal-site-experiment-log).
 
-I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <a href="https://publish.obsidian.md/shanna/_START" target="_blank" rel="noopener noreferrer">start page</a> on Obsidian Publish or [hereeee](home.md) at shanna.fyi. Both are built from the same markdown files.
+I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <a href="https://publish.obsidian.md/shanna/_START" target="_blank" rel="noopener noreferrer">start page</a> on Obsidian Publish or [github pages version](home.md) here at shanna.fyi. Both are built from the same markdown files.
 
 ------------------------
 <small>↳ <i>Modified Nov-02-2020</i></small>
