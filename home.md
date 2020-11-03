@@ -1,6 +1,6 @@
 # Digital Brain Lvl5 👩🏻
 **Welcome, me!**
-<small>↙ [home note](home.md) / [shanna.fyi](https://shanna.fyi/)</small>
+<small>↙ [welcome page](index.md) / [shanna.fyi](https://shanna.fyi/)</small>
 
 — — — Page under development 🚧 — — —
 
