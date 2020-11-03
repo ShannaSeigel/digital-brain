@@ -7,10 +7,8 @@ Why APA? Most commonly used for my field and easy to work with.
 
 I've been pulling citation info from [zoterobib](https://zbib.org/)
 
-<br>
-
-
-**Experiment Nov-03-2020**
+---
+**File name experiment Nov-03-2020**
 I wanted to know if I could name files "(author, year, topic)" so when I linked to a reference it would automatically show up in a useful format. Adding spaces and punctuation to the file names prevented them from being changed to HTML from markdown on GitHub. I tried adding back the dashes and replacing parentheses with the HTML symbols for them, but those were still read as regular parentheses and I was still prompted to download a markdown file rather than seeing the reference. Soooo, in-text citations will have to be edited by me to look nice if/when I need them to do so.
 
 
