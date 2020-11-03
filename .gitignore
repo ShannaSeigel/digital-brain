@@ -1,17 +1,18 @@
 
 # Folders to ignore
+
 .obsidian/
-zk-sgs/
 -box/
 bookmark-inspo-tagged/
 experiment-logs/
 planning-docs✓/
 resources
-slipbox to review and add back
-use-refs
-zk-lyt-pks
-zk-private
-Zk-lyt-pks/unpublish
+ShannaSeigel.github.io/
+slipbox/
+slipbox to review and add back/
+zk-sgs/
+
+
 
 # Files to Ignore
 .DS_Store
