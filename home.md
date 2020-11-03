@@ -6,7 +6,7 @@
 
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. I want to be thinking and doing, not wasting time.
 
-[!-citation-and-sources-protocol](citations-apa/!-citation-and-sources-protocol.md)
+<br>
 
 ### Topics I'm Exploring
 [Genetic counseling skills](zk-lyt-pks/mocs/genetic-counseling-skills.md) 

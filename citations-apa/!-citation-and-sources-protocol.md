@@ -1,46 +1,20 @@
 # Using my card catalog
-- Folder "citation-catalog-apa" will be used to hold source articles and each will have a markdown note with reference/citation in APA format.
+- Folder "citations-apa" will be used to hold source articles and each will have a markdown note with reference/citation in APA format.
 - Plan to link to the citation card when referencing it from other notes. This way I can see backlinks and easily grab the reference info if needed.
 - Markdown file with reference info will link to the PDF or other file type with the source material.
-
 
 Why APA? Most commonly used for my field and easy to work with.
 
 I've been pulling citation info from [zoterobib](https://zbib.org/)
 
-Question Nov-03-2020
-Could I name this files the way they would show up as an in-text citation? So if I reference the file it'll appear as "(Lewis, 2000)" in the link? My problem with this is having less information in the filename to know which reference I'm trying to use. I could have an extra descriptor but that's not standard. But also, I'm not publishing a journal article, does it matter?
-
-test, let's reference the SPIKES paper. i'm not pointing to a PDF... because? So i'm not publically sharing an article? so its easier to see backlinks? i dont know. if im keeping the source material... i guess so i have reference info ready to go when/if needed?
-
-[(Baile, 2000, SPIKES Protocol)]((Baile,%202000,%20SPIKES%20Protocol).md)
-
-contrast, my normally named note [lewis-2020-redeem-soul-of-nation](lewis-2020-redeem-soul-of-nation.md)
-- this link worked perfectly
-
-> the difference between these two is the case, space, and punctuation
-
-additional test, no spaces or capitals, just parens [(stevenson-2012-injustice-ted-talk)](&#40;stevenson-2012-injustice-ted-talk&#41;)
-- this link wants me to download a markdown file
-
-it does show up nicely in preview mode as (author, year, topic)
-how much could this fuck up publishing? I'd have capital letters, punctuation, and spaces in the filename.
-
-pushed changes in references folder to github, let's see what happens.
-
-i also had to add a link to this note on my homepage. i can get to this note via markdown link just fine but the link to the baile note wants to give me a markdown file and not an html, why??
-
-sooooo, no spaces, no punctuation as expected. can i add something else to show the text should be parens so i can be lazy about adding this myself?
-
-&#41; = right side of par
-&#40; = left
-
-let's try - [&#40;stevenson-2012-injustice-ted-talk&#41;](&#40;stevenson-2012-injustice-ted-talk&#41;.md)
+<br>
 
 
+**Experiment Nov-03-2020**
+I wanted to know if I could name files "(author, year, topic)" so when I linked to a reference it would automatically show up in a useful format. Adding spaces and punctuation to the file names prevented them from being changed to HTML from markdown on GitHub. I tried adding back the dashes and replacing parentheses with the HTML symbols for them, but those were still read as regular parentheses and I was still prompted to download a markdown file rather than seeing the reference. Soooo, in-text citations will have to be edited by me to look nice if/when I need them to do so.
 
 
 ---
 
 
-🔔 Created Oct-10-2020 / Updated ∞
+🔔 Created Oct-10-2020 / Updated Nov-03-2020
