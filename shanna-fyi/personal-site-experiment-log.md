@@ -3,7 +3,7 @@ Keeping track of questions and problems as I, a person with minimal recent exper
 <!--Add a table of contents if this page gets too long?-->
 
 ## Bookmarks
-[Getting started with GitHub pages](https://guides.github.com/features/pages/) | [Main guide](https://docs.github.com/en/github/working-with-github-pages) | [Jekyll pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+[Getting started with GitHub pages](https://guides.github.com/features/pages/) | [Main guide](https://docs.github.com/en/github/working-with-github-pages) | [Jekyll pages](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) | 
 [Guide GitHub Custom Domains](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a) | [custom domains w/GitHub](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-custom-domains-and-github-pages) 
 [management](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site) | [troubleshooting](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/troubleshooting-custom-domains-and-github-pages)
 
