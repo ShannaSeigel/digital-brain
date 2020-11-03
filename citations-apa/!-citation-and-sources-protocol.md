@@ -16,10 +16,12 @@ test, let's reference the SPIKES paper. i'm not pointing to a PDF... because? So
 [(Baile, 2000, SPIKES Protocol)]((Baile,%202000,%20SPIKES%20Protocol).md)
 
 contrast, my normally named note [lewis-2020-redeem-soul-of-nation](lewis-2020-redeem-soul-of-nation.md)
+- this link worked perfectly
 
 > the difference between these two is the case, space, and punctuation
 
-additional test, no spaces or capitals, just parens [(stevenson-2012-injustice-ted-talk)]((stevenson-2012-injustice-ted-talk).md)
+additional test, no spaces or capitals, just parens [(stevenson-2012-injustice-ted-talk)](&#40;stevenson-2012-injustice-ted-talk&#41;)
+- this link wants me to download a markdown file
 
 it does show up nicely in preview mode as (author, year, topic)
 how much could this fuck up publishing? I'd have capital letters, punctuation, and spaces in the filename.
@@ -27,6 +29,15 @@ how much could this fuck up publishing? I'd have capital letters, punctuation, a
 pushed changes in references folder to github, let's see what happens.
 
 i also had to add a link to this note on my homepage. i can get to this note via markdown link just fine but the link to the baile note wants to give me a markdown file and not an html, why??
+
+sooooo, no spaces, no punctuation as expected. can i add something else to show the text should be parens so i can be lazy about adding this myself?
+
+&#41; = right side of par
+&#40; = left
+
+let's try - [&#40;stevenson-2012-injustice-ted-talk&#41;](&#40;stevenson-2012-injustice-ted-talk&#41;.md)
+
+
 
 
 ---
