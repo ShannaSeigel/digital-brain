@@ -13,7 +13,7 @@ Welcome to my sandbox for exploring how to host my [zettelkasten/knowledge garde
 <br>
 I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <a href="https://publish.obsidian.md/shanna/page-1" target="_blank" rel="noopener noreferrer">start page on Obsidian Publish</a> or the version on [GitHub Pages](https://shanna.fyi/page-1) @[shanna.fyi](https://shanna.fyi/). Both are built from the same markdown files.
 
-I'm keeping a list of some [questions and experiments](shanna-fyi/_pages/personal-site-experiment-log) about the experience.
+I'm keeping a list of some [questions and experiments](shanna-fyi/_pages/personal-site-experiment-log.md) about the experience.
 
 
 ------------------------
