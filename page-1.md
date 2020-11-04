@@ -35,8 +35,9 @@ link back to this note with `,+h` to get `<small>← [Home](page-1)</small>`[^1]
 
 
 <br>
-A few tags under review for usefulness
-- #sgs-needs-notes 
+
+A few [action tags](-Action%20Tags.md) under review for usefulness
+
 - #sgs-to-process 
 - #sgs-to-develop 
 - #sgs-to-review 

@@ -19,7 +19,7 @@ Keeping track of questions and problems as I, a person with minimal recent exper
 	- [Liquid date format](https://shopify.github.io/liquid/filters/date/)
 	- [Minima theme](https://github.com/jekyll/minima)
 - [Many posts from Tania Rascia](https://www.taniarascia.com/)
-- 
+
 
 
 ## Formatting with .md pages

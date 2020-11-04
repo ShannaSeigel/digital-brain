@@ -14,6 +14,7 @@ First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten
 
 ### Related Notes
 - [Short blog post about sharing the zk concept with more people](show-people-zettelkasten-via-job-site)
+- I plan to build my note library with [markdown](-markdown.md)
 
 <br>
 
