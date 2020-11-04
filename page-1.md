@@ -1,7 +1,7 @@
 # Digital Brain Lvl5 👩🏻
 **Welcome, me!**
 
-<small>↙ [welcome page](index.md) / [shanna.fyi](https://shanna.fyi/)</small>
+<small>↙ [Obsidian Publish welcome page](index.md) / [shanna.fyi](https://shanna.fyi/)</small>
 
 — — — Page under development 🚧 — — —
 

@@ -17,6 +17,7 @@ I'm keeping a list of some questions and experiments
 
 [q's](shanna-fyi/_pages/personal-site-experiment-log.md) about the experience.
 
+![social-icon-rss](shanna-fyi/_images/social-icon-rss.png)
 
 ------------------------
 <small>↳ <i>Modified Nov-02-2020</i></small>
