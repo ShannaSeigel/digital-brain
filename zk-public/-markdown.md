@@ -18,12 +18,10 @@
 - [Babelmark](program-babelmark-for-markdown)
 - [Typora](program-typora)
 
-Related: 
-[markdown-formatting-examples](../../resources/Jekyll%20Page%20Templates/markdown-formatting-examples.md)
-- [ ] these pages need review
-
+### Markdown Formatting in Action: 
+[Markdown Text Test](markdown-test-text.md)
 
 
 
 <br>
-<small>↳ <i>Created Aug-20-2020 / Updated Nov-01-2020</i></small>
+<small>↳ <i>Created Aug-20-2020 / Updated Nov-04-2020</i></small>
