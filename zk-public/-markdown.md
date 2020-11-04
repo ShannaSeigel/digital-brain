@@ -1,4 +1,4 @@
-<small>← [page-1](../page-1.md)</small>
+<small>← [Home](../page-1.md)</small>
 
 # Markdown
 
