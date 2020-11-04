@@ -4,14 +4,14 @@
 *<small>(AKA: my Home Note)</small>*
 
 <ins>My personal knowledge system goal:</ins> to stop curating a pile of meaningless notes and to stop creating more work for myself. I want to be thinking and doing, not wasting time.
-<br>
+<br><br>
 
 ### Maps of Content (MOCs)
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
 
 &nbsp;&nbsp;&nbsp;&nbsp; → [Markdown MOC](zk-public/-markdown.md)
 
-
+<br>
 
 ### Topics I'm Exploring
 <small>*~~but haven't added content online yet~~*</small>
