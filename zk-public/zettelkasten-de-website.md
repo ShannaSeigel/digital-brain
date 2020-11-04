@@ -1,6 +1,6 @@
 <small><a href="#" onclick="history.go(-1)">← Back to previous page</a></small>
 
-# Zettelkasten.de Website !
+# Zettelkasten.de Website
 [https://zettelkasten.de/](https://zettelkasten.de/)
 
 - Resource I first used for learning about zettelkasten.
