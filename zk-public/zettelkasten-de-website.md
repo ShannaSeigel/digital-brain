@@ -1,4 +1,5 @@
-<small>← <a href="javascript:history.back()">Back</a></small>
+<small>← [zettelkasten map](../../zk-public/-zettelkasten.md)</small>
+
 
 # Zettelkasten.de Website
 [https://zettelkasten.de/](https://zettelkasten.de/)

@@ -5,7 +5,7 @@
 
 ### What is it? How do I use it?
 
-First learned about zettelkasten from [zettelkasten.de](https://zettelkasten.de/) while searching for better ways to organize my ideas and projects. See notes about the website: [zettelkasten-de-website](zettelkasten-de-website.md)
+First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten.de/) while searching for better ways to organize my ideas and projects. See notes about the website: [zettelkasten-de-website](zettelkasten-de-website.md)
 
 
 ### Notes About Zettelkasten
