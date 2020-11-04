@@ -1,10 +1,8 @@
 <small>← [-zettelkasten](-zettelkasten.md)</small>
 
-2020-10-18 Zk.de job site posting
+**Sharing knowledge systems with others**
 
-https://zettelkasten.de/posts/jooble/
-
-Article about a job website, Jooble, that featured zettelkasten. A new way to introduce the concept to knowledge workers?
+zk.de [article about a job website](https://zettelkasten.de/posts/jooble/), Jooble, that featured zettelkasten. A new way to introduce the concept to knowledge workers?
 
 Feeds into email discussion with [nick-milo](../slipbox/-nick-milo) about increasing diversity in PKM, exposing more people to concept
 
