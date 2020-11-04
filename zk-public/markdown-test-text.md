@@ -1,4 +1,4 @@
-<small>← [Home](page-1) / ← <a href="#" onclick="history.go(-1)">Back</a></small>
+<small>← [page-1](../page-1.md)] / ← <a href="#" onclick="history.go(-1)">Back</a></small>
 
 # Header 1
 
