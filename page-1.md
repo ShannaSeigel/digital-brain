@@ -18,7 +18,7 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 [What it means to be "open source"](zk-lyt-pks/mocs/open-source-mindset.md)
 
-[Stumbling through site building stuffs](shanna-fyi/_pages/personal-site-experiment-log)
+[Stumbling through site building stuffs](shanna-fyi/pages/personal-site-experiment-log)
 
 <br>
 
