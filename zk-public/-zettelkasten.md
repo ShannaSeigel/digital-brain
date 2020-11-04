@@ -1,4 +1,4 @@
-<small>← [Home](page-1)</small>
+<small>← [page-1](../page-1.md)</small>
 
 # Zettelkasten
 *Also referred to in my notes as "ZK"*
