@@ -12,6 +12,8 @@ First learned about zettelkasten from [zettelkasten.de](https://zettelkasten.de/
 - "How to ZK" [Video Q&A](videos-on-how-to-zk)
 - [There's no such thing as permanent notes](zettelkasten-not-permanent-notes)
 
+Actions:
+- [ ] [zk in inbox](../zk-sgs/zk%20in%20inbox.md) - giant list of all "zk" mentions in my inbox to start reviewing and refining ideas
 
 ### Related Notes
 
