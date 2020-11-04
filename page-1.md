@@ -14,45 +14,39 @@ My first experiment with a map of content was while I learned how to use Markdow
 <br>
 
 ### Topics I'm Exploring
-[Genetic counseling skills](zk-lyt-pks/mocs/genetic-counseling-skills.md) 
+<small>*~~but haven't added content online yet~~*</small>
 
-[Genetic testing for hereditary cancer](zk-lyt-pks/mocs/genetic-testing-hereditary-cancer.md)
-
-[Linking Your Thinking Workshop, 2020](zk-lyt-pks/mocs/LYT-course-moc-2020.md)
-
-[What it means to be "open source"](zk-lyt-pks/mocs/open-source-mindset.md)
-
-[Stumbling through site building stuffs](shanna-fyi/pages/personal-site-experiment-log)
+- [Genetic counseling skills](zk-lyt-pks/mocs/genetic-counseling-skills.md) 
+- [Genetic testing for hereditary cancer](zk-lyt-pks/mocs/genetic-testing-hereditary-cancer.md)
+- [Linking Your Thinking Workshop, 2020](zk-lyt-pks/mocs/LYT-course-moc-2020.md)
+- [What it means to be "open source"](zk-lyt-pks/mocs/open-source-mindset.md)
+- [Stumbling through site building stuffs](shanna-fyi/pages/personal-site-experiment-log)
 
 <br>
 
 
-### [Action Tags](use-refs/Action%20Tags.md) 
-Under review
+### Action Tags
+A few tags under review for usefulness
 #sgs-needs-notes | #sgs-to-process | #sgs-to-develop | #sgs-to-review 
 #sgs-read-more-on-subject | #sgs-brainstorming 
 
 
 <br>
 
-📌 
-[-Focus Mode 🎧](-Focus%20Mode%20%F0%9F%8E%A7.md) Do i want a link to this note here? do i want this note in my root folder along with my index page, etc? feels out of place but maybe that's because it could be a reference, it could be a summary about ideas. or maybe its more like an experiment log?
 
-<br>
-
-### Reference Info
-link back to this note with `,+h` to get `<small>← [Home](START)</small>`
+### Reference Info 📌
+link back to this note with `,+h` to get `<small>← [Home](page-1)</small>`[^1]
 
 😴[Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md)
 
 <br>
 
 ### Brainstorming
-Not sure if I want to default format all my notes with frontmatter to save on adding it later if I do publish. For the moment leaning toward not bothering since I may never take that step. Can revisit this in future
+Not sure if I want to default format all my notes with frontmatter to save on adding it later if I do publish. For the moment leaning toward not bothering since I may never take that step and/or I might have to edit it all again since I don't know much about this. Can revisit this in future
 
-Nov-01-2020 thinking about letting anything i'm okay sharing be in one big list in my root folder. everything in my inbox or other folders should be unpublished by default. might save on mess? i still dont love adding more structure and keeping notes in seperate buckets but thats easier than selecting files one-by-one to share
 
----
+[^1]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
 
+<br>
 <small>↳ <i>Created Oct-18-2020 / Updated Nov-01-2020 </i></small>
 
