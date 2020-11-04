@@ -9,12 +9,12 @@
 ### Maps of Content (MOCs)
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
 
-➡
-▶
-↳
-←→
 
--> [Markdown MOC](zk-public/-markdown.md)
+▶ [Markdown MOC](zk-public/-markdown.md)
+
+↳ [Markdown MOC](zk-public/-markdown.md)
+
+→ [Markdown MOC](zk-public/-markdown.md)
 
 
 ### Topics I'm Exploring
@@ -35,20 +35,14 @@ link back to this note with `,+h` to get `<small>← [Home](page-1)</small>`[^1]
 😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md)
 
 
-
+<br>
 A few tags under review for usefulness
-
-#sgs-needs-notes 
-#sgs-to-process 
-#sgs-to-develop 
-#sgs-to-review 
-#sgs-read-more-on-subject 
-#sgs-brainstorming 
-
-
-
-
-
+- #sgs-needs-notes 
+- #sgs-to-process 
+- #sgs-to-develop 
+- #sgs-to-review 
+- #sgs-read-more-on-subject 
+- #sgs-brainstorming 
 
 
 <br>
