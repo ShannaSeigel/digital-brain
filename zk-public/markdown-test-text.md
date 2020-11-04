@@ -1,3 +1,5 @@
+<small>← [Home](page-1) / ← <a href="#" onclick="history.go(-1)">Back</a></small>
+
 # Header 1
 
 ## Header 2
