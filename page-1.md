@@ -8,6 +8,11 @@
 
 ### Maps of Content (MOCs)
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
+
+➡
+▶
+↳
+
 -> [Markdown MOC](zk-public/-markdown.md)
 
 
@@ -57,5 +62,5 @@ Not sure if I want to default format all my notes with frontmatter to save on ad
 
 ---
 
-<small>↳ <i>Created Oct-18-2020 / Updated Nov-01-2020 </i></small>
+<small>↳ <i>Created Oct-18-2020 / Updated Nov-04-2020 </i></small>
 
