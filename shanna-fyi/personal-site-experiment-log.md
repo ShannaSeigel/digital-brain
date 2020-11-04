@@ -14,7 +14,7 @@ Keeping track of questions and problems as I, a person with minimal recent exper
 
 `❓ Can a personal website and a site for zettels live in different GitHub repositories?`
 
-I was thinking the answer would be no but I wondered if having a repository folder inside my main site folder would help. I can certainly create links in obsidian between those folders. I'll try adding my previous experiment site ["Shanna's Slipbox"](https://shanna.fyi/slipbox/). It currently shows up as a subsection of shanna.fyi.
+I was thinking the answer would be no but I wondered if having a repository folder inside my main site folder would help. I can certainly create links in obsidian between those folders. I'll try adding my previous experiment site ["Shanna's Slipbox"](https://shannaseigel.github.io/slipbox/). It currently shows up as a subsection of shanna.fyi.
 - Testing link to another repo: "2020-08-28-test-post" This nearly worked. It did go to shannafyi/slipbox, but blog files are named differently on github.
 - new test link to a stand alone page "new_format_rules"	
 	- i think these links to .md files aren't being translated to .html?
