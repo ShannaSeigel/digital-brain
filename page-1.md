@@ -50,5 +50,8 @@ Not sure if I want to default format all my notes with frontmatter to save on ad
 [^1]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
 
 <br>
+
+---
+
 <small>↳ <i>Created Oct-18-2020 / Updated Nov-01-2020 </i></small>
 
