@@ -1,4 +1,4 @@
-<small>← [Markdown Map](-markdown.md) / ← <a href="#" onclick="history.go(-1)">Back</a></small>
+<small>← [Markdown Map](-markdown.md)</small>
 
 # Header 1
 
