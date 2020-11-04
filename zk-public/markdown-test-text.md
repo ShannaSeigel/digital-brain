@@ -1,4 +1,4 @@
-<small>← [page-1](../page-1.md)] / ← <a href="#" onclick="history.go(-1)">Back</a></small>
+<small>← [Markdown Map](-markdown.md) / ← <a href="#" onclick="history.go(-1)">Back</a></small>
 
 # Header 1
 
