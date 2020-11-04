@@ -18,7 +18,9 @@ Next:
 
 #### 🗒Related Notes
 [zettelkasten-overview](../mocs/zettelkasten-overview)
+
 [zk-de featured on a job website](../../zk-private/show-people-zettelkasten-via-job-site)
+
 [videos from Sascha on how to zettelkasten](../../zk-private/videos-on-how-to-zk)
 
 <!--#### Tags-->

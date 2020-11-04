@@ -26,14 +26,18 @@ My first experiment with a map of content was while I learned how to use Markdow
 ### Reference Info 📌
 link back to this note with `,+h` to get `<small>← [Home](page-1)</small>`[^1]
 
-😴[Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md)
+😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md)
 
 
 
 A few tags under review for usefulness
 
-#sgs-needs-notes | #sgs-to-process | #sgs-to-develop | #sgs-to-review 
-#sgs-read-more-on-subject | #sgs-brainstorming 
+#sgs-needs-notes 
+#sgs-to-process 
+#sgs-to-develop 
+#sgs-to-review 
+#sgs-read-more-on-subject 
+#sgs-brainstorming 
 
 
 
