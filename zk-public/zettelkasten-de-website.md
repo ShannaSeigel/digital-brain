@@ -1,4 +1,7 @@
 <small>← <a href="#" onclick="history.go(-1)">Back</a></small>
+<br>
+v2
+<small>← <a href="javascript:history.back()">Back</a></small>
 
 # Zettelkasten.de Website
 [https://zettelkasten.de/](https://zettelkasten.de/)
