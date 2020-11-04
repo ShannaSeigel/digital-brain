@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/profile-picture-garden.png" width="200">
+<img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/profile-picture-garden-200px.png" width="200">
 
 <br>
 <H2 align=center>👋🏼&nbsp; I'm Shanna &amp; this is my digital brain</H2>
