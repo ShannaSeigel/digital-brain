@@ -1,4 +1,4 @@
-<small>← [zettelkasten map](../../zk-public/-zettelkasten.md)</small>
+<small>← [-zettelkasten](-zettelkasten.md)</small>
 
 
 # Don't worry about "permanent" notes, just useful notes

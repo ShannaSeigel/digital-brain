@@ -1,4 +1,4 @@
-<small>← [zettelkasten map](../../zk-public/-zettelkasten.md)</small>
+<small>← [-zettelkasten](-zettelkasten.md)</small>
 
 2020-10-18 Zk.de job site posting
 
