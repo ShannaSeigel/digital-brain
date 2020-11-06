@@ -29,7 +29,7 @@ My first experiment with a map of content was while I learned how to use Markdow
 - [Genetic testing for hereditary cancer](zk-lyt-pks/mocs/genetic-testing-hereditary-cancer.md)
 - [Linking Your Thinking Workshop, 2020](zk-lyt-pks/mocs/LYT-course-moc-2020.md)
 - [What it means to be "open source"](zk-lyt-pks/mocs/open-source-mindset.md)
-- [Stumbling through site building stuffs](shanna-fyi/pages/personal-site-experiment-log)
+- [Stumbling through site building stuffs](shanna-fyi/personal-site-experiment-log)
 
 <br>
 
