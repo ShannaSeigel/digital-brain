@@ -1,6 +1,6 @@
 # About Shanna
 
-I'll add more here in the future. In the meantime, enjoy this playlist of some of the top rated songs in my music library.
+I'll add more here in the future. In the meantime, enjoy a playlist songs I like.
 
 <br>
 
