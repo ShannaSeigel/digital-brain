@@ -2,7 +2,6 @@
 
 I'll add more here in the future. In the meantime, enjoy this playlist of some of the top rated songs in my music library. 
 
-<br>
 
 <table style="border: 0px #fff; padding: 5px; align: center;">
 	<tr>
