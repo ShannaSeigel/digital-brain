@@ -19,7 +19,6 @@
 
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
 
-</style>
 
 <br>
 
