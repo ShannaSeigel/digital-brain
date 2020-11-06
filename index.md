@@ -11,14 +11,14 @@ Welcome to my sandbox for exploring how to host my [zettelkasten/knowledge garde
 #### 🏡 Jump to my [Home Note](page-1.md)
 	
 <br>
-I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <a href="https://publish.obsidian.md/shanna/page-1" target="_blank" rel="noopener noreferrer">start page on Obsidian Publish</a> or the version on [GitHub Pages](https://shanna.fyi/page-1) @[shanna.fyi](https://shanna.fyi/). Both are built from the same markdown files.
+I'm also testing out Obsidian Publish vs GitHub Pages. See my knowledge system <a href="https://publish.obsidian.md/shanna/page-1" target="_blank" rel="noopener noreferrer">start page on Obsidian Publish</a> or the version on <a href="https://shanna.fyi/page-1">GitHub Pages</a> @<a href="https://shanna.fyi">shanna.fyi</a>. Both are built from the same markdown files.
 
 I'm keeping a list of some [questions and experiments](shanna-fyi/pages/personal-site-experiment-log) about the experience.
 
 
 
 ------------------------
-<small>↳ <i>Modified Nov-02-2020</i></small>
+<small>↳ <i>Modified Nov-04-2020</i></small>
 <br><br><br>
 <!--obsidian--><a href="https://forum.obsidian.md/u/shanna" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/obsidian-sq.png" width="26"></a>&nbsp;&nbsp;
 <!--github--> <a href="https://github.com/ShannaSeigel" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/dave-gandy-socials/github-logo.png" width="25"></a>&nbsp;&nbsp;&nbsp;
