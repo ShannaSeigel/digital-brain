@@ -1,10 +1,15 @@
 <small>↙ [Obsidian Publish](index.md) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻
-*<small>(AKA: my Home Note)</small>*
+*<small>(AKA: learning to create a Home Note)</small>*
 
 <ins>My personal knowledge system goal:</ins> to stop curating a pile of meaningless notes and to stop creating more work for myself. I want to be thinking and doing, not wasting time.
-<br><br>
+<br>
+
+
+
+📌 Reminder for later, ideas for capstone project [from unit 1](zk-sgs/light%20bucket/202010302046-lyt-unit-1-materials.md#%5Ecapstone-idea)
+<br>
 
 ### Maps of Content (MOCs)
 
@@ -12,6 +17,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp; → [Zettelkasten MOC](zk-public/-zettelkasten.md)
 
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
+
 
 
 <br>

@@ -45,6 +45,8 @@ I was thinking the answer would be no but I wondered if having a repository fold
 
 `🧪 Result: Maybe I can't easily link between to two repositories the way I can easily link between files in Obsidian. Or at least I don't know how to do this.`
 
+
+
 <br>
 
 `❓ Can a website for personal projects, professional info, and my LYT system coexist under one domain?`

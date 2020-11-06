@@ -23,3 +23,5 @@ First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten
 [zk in inbox](../zk-sgs/zk%20in%20inbox.md) - giant list of all "zk" mentions in my inbox to start reviewing and refining ideas
 
 
+------------------------
+<small>↳ <i>Created Nov-04-2020 / Updated ∞ </i></small>
