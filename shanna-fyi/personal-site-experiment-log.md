@@ -1,4 +1,4 @@
-<small>← [Home](../../page-1)</small>
+<small>← [Home](../home-note)</small>
 
 # Experiment Log
 Keeping track of questions and problems as I, a person with minimal recent experience in website building, try to build a website.

@@ -1,4 +1,5 @@
 ---
+layout: note
 title: What Do I Want to Make Notes?
 author: Shanna
 ---

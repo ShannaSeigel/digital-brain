@@ -1,4 +1,10 @@
-<small>← [Home](../page-1.md)</small>
+---
+layout: note
+title: Markdown MOC
+author: Shanna
+---
+
+<small>← [Home](../home-note)</small>
 
 # Markdown
 

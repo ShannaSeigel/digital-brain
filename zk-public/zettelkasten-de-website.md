@@ -1,3 +1,9 @@
+---
+layout: note
+title: zk.de site
+author: Shanna
+---
+
 <small>← [-zettelkasten](-zettelkasten.md)</small>
 
 

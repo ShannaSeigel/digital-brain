@@ -1,3 +1,9 @@
+---
+layout: note
+title: md over txt
+author: Shanna
+---
+
 <small>← [Markdown Map](../zk-public/-markdown)</small>
 
 # Why use Markdown over text files?

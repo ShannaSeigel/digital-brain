@@ -1,4 +1,10 @@
-<small>← [Home](../page-1)</small> / <small>← [LYT Workshop Map](-lyt-workshop-map.md)</small>
+---
+layout: note
+title: Nick Milo
+author: Shanna
+---
+
+<small>← [Home](../home-note)</small> / <small>← [LYT Workshop Map](-lyt-workshop-map.md)</small>
 
 # Nick Milo
 

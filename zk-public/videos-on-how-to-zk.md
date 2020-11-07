@@ -1,3 +1,9 @@
+---
+layout: note
+title: -
+author: Shanna
+---
+
 <small>← [-zettelkasten](-zettelkasten.md)</small>
 
 # zettelkasten.de Q&A Sessions

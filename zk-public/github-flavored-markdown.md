@@ -1,3 +1,9 @@
+---
+layout: note
+title: GitHub Flavored Markdown
+author: Shanna
+---
+
 <small>← [Markdown Map](../zk-public/-markdown)</small>
 
 GitHub Flavored Markdown (GFM) is a version of [markdown](../zk-public/-markdown) based on [CommonMark](commonmark-markdown) but adds features like @mentions

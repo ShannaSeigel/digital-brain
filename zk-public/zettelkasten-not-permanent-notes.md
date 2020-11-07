@@ -1,3 +1,9 @@
+---
+layout: note
+title: Forget Permanent Notes
+author: Shanna
+---
+
 <small>← [-zettelkasten](-zettelkasten.md)</small>
 
 

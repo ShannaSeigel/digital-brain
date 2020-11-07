@@ -1,3 +1,9 @@
+---
+layout: note
+title: Markdown Test Text
+author: Shanna
+---
+
 <small>← [Markdown Map](-markdown.md)</small>
 
 # Header 1

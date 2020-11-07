@@ -1,9 +1,10 @@
 ---
+layout: note
 title: Linking Your Thinking Course Map
 author: Shanna
 ---
 
-<small>← [Home](../../page-1)</small>
+<small>← [Home](../home-note)</small>
 
 # Linking Your Thinking Course
 Fall/Winter 2020

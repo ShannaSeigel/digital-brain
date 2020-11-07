@@ -1,4 +1,5 @@
 ---
+layout: note
 title: Babelmark Tool
 author: Shanna
 ---

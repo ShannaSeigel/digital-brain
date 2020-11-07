@@ -1,4 +1,10 @@
-<small>← [Home](../page-1.md)</small>
+---
+layout: note
+title: Zettelkasten MOC
+author: Shanna
+---
+
+<small>← [Home](../home-note)</small>
 
 # Zettelkasten
 *Also referred to in my notes as "ZK"*

@@ -1,3 +1,9 @@
+---
+layout: note
+title: Typora Program
+author: Shanna
+---
+
 <small>← [Markdown Map](../zk-public/-markdown)</small>
 
 Typora is a [markdown](../zk-public/-markdown) file editor that allows you to see what the published view will be while working in a file. 

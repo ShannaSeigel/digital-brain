@@ -1,3 +1,10 @@
+---
+layout: note
+title: Linking Your Thinking Concept
+author: Shanna
+---
+
+
 # Linking Your Thinking
 Method
 Website
