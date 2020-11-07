@@ -1,5 +1,5 @@
 ---
-title: What Do *I* Want to Make Notes
+title: What Do I Want to Make Notes?
 author: Shanna
 ---
 
