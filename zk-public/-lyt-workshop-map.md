@@ -19,7 +19,7 @@ Designed, led by [nick-milo](../../zk-public/-nick-milo)
 - [lyt-discord-goals](../../!nbox/lyt-discord-goals.md): Getting ready for the workshop and making note of inspiring goals from other "LYT cohort 2" folks
 - [202010302046-lyt-unit-1-materials](../../!nbox/202010302046-lyt-unit-1-materials.md)
 - [202011030547-lyt-drivers](202011030547-lyt-drivers)
-- [[../zk-sgs/light bucket/2020-11-06-unit-2-notes]]
+- [2020-11-06-unit-2-notes](../zk-sgs/light%20bucket/2020-11-06-unit-2-notes.md)
 
 
 ## next steps
