@@ -1,4 +1,4 @@
-<small>↙ [Obsidian Publish](shanna-fyi/index) / [shanna.fyi](https://shanna.fyi/)</small>
+<small>↙ [Obsidian Publish](index) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻
 *<small>(AKA: learning to create a Home Note)</small>*
