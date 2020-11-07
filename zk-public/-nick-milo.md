@@ -10,9 +10,11 @@ Professionally: Has been running a boxing/fitness program for 11 years and is wo
 Links 🔗 
 
 - [LYT Website](https://www.linkingyourthinking.com/)
-- [LYT Kit - Obsidian Online](https://publish.obsidian.md/lyt-kit/_START+HERE)
-- [YouTube Linking Your Thinking](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/featured)
-- [Profile @Obsidian Forum, is Moderator](https://forum.obsidian.md/u/nickmilo/summary)
+- [LYT Kit - Obsidian Forum](https://publish.obsidian.md/lyt-kit/_START+HERE)
+- [YouTube channel: Linking Your Thinking](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/featured)
+- [Moderator @Obsidian Forum](https://forum.obsidian.md/u/nickmilo/summary)
+
+
 
 ------------------------
 <small>↳ <i>Created Oct-13-2020 / Updated Nov-02-2020 </i></small>
