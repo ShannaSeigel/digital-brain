@@ -38,6 +38,7 @@ link back to this note with `,+h` to get `<small>← [Home](page-1)</small>`[^1]
 
 😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md)
 
+[About Me](shanna-fyi/about-page.md)
 
 <br>
 
