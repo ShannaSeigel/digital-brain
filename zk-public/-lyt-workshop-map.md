@@ -2,6 +2,23 @@
 # Linking Your Thinking Course
 Fall/Winter 2020
 Designed, led by [nick-milo](../../zk-public/-nick-milo)
+[linking-your-thinking](../zk-sgs/light%20bucket/linking-your-thinking.md)
+
+
+[note-taking-vs-note-making](../zk-sgs/light%20bucket/note-taking-vs-note-making.md)
+
+
+
+
+
+
+
+
+
+
+
+
+↓ could change these to related notes i havent done anything with yet
 
 ## Pre-Workshop
 - [Five levels of idea emergence - LYT Webinar](../zk-sgs/light%20bucket/2020-10-17%20LYT%20Webinar.md)

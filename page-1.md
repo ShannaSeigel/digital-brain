@@ -7,7 +7,6 @@
 <br>
 
 
-
 📌 Reminder for later, ideas for capstone project [from unit 1](zk-sgs/light%20bucket/202010302046-lyt-unit-1-materials.md#%5Ecapstone-idea)
 <br>
 
