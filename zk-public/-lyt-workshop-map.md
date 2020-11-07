@@ -1,7 +1,7 @@
 <small>← [Home](../../page-1)</small>
 # Linking Your Thinking Course
 Fall/Winter 2020
-Designed, led by [nick-milo](../../zk-public/-nick-milo)
+Designed, led by [Nick Milo](../../zk-public/-nick-milo)
 [linking-your-thinking](../zk-sgs/light%20bucket/linking-your-thinking.md)
 
 

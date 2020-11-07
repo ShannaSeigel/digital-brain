@@ -1,3 +1,5 @@
+<small>← <a href="javascript:history.back()">Back</a></small>
+
 # Why Do I Want to Make Notes?
 
 ### What am I trying to accomplish with a digital note library?
@@ -16,14 +18,14 @@
 	- Have to consider [future proofing](../../-box/what-is-future-proof.md) my data
 
 
-> "...it matters how you set up your digital library so that will grow and evolve with you... throughout your entire life... Because if you can’t rely on your digital notes—you’re just one step away from digital dementia."  --[Nick Milo](../../zk-public/-nick-milo.md) through [LYT Workshop 2020](../../zk-public/-lyt-workshop-map.md)
+> "...it matters how you set up your digital library so that will grow and evolve with you... throughout your entire life... Because if you can’t rely on your digital notes—you’re just one step away from digital dementia."  --[Nick Milo](../../zk-public/-nick-milo.md), [LYT Workshop 2020](../../zk-public/-lyt-workshop-map.md)
 
 ↳ *I can't decide if this is take it too depressing or if it feels accurate*
 
 
 
 
----
+<!---
 
 #sgs-to-review 
 
@@ -31,7 +33,7 @@ possibly related future notes when they get written:
 what notes are or what evergreen notes are
 system trust or that article to "use your system, stop playing with" on zk.de
 
-
+-->
 
 
 
