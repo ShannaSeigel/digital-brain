@@ -18,7 +18,7 @@ I'm keeping a list of some [questions and experiments](shanna-fyi/personal-site-
 <br>
 
 
-[About Me](shanna-fyi/about-page.md)
+[About Me](shanna-fyi/about-page.md) with some music I like
 
 ------------------------
 <small>↳ <i>Modified Nov-04-2020</i></small>
