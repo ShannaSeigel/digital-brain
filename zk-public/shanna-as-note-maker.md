@@ -1,5 +1,11 @@
 <small>← <a href="javascript:history.back()">Back</a></small>
 
+---
+title: What Do *I* Want to Make Notes
+Author: Shanna
+
+---
+
 # Why Do I Want to Make Notes?
 
 ### What am I trying to accomplish with a digital note library?
