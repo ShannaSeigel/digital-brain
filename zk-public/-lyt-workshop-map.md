@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: # note
 title: Linking Your Thinking Course Map
 author: Shanna
 ---
@@ -14,7 +14,7 @@ Designed, led by [Nick Milo](../../zk-public/-nick-milo)
 
 [Why do I want to *make* notes?](shanna-as-note-maker)
 
-[shanna-as-note-maker](shanna-as-note-maker.md)
+[shanna-as-note-maker md file](shanna-as-note-maker.md)
 
 
 [map a roo](-lyt-workshop-map.md)
