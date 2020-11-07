@@ -1,10 +1,9 @@
-<small>← <a href="javascript:history.back()">Back</a></small>
-
 ---
 title: What Do *I* Want to Make Notes
-Author: Shanna
-
+author: Shanna
 ---
+
+<small>← <a href="javascript:history.back()">Back</a></small>
 
 # Why Do I Want to Make Notes?
 
