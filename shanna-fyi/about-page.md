@@ -11,11 +11,10 @@ I'll add more here in the future. In the meantime, enjoy a playlist songs I like
 <br>
 
 <div align="center">
-<iframe src="https://open.spotify.com/playlist/1qEdErplQUqqeYNfe1wXoy" width="60%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/1qEdErplQUqqeYNfe1wXoy" width="60%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 
-	
 
 ------------------------
 <small>↳ <i>Created Nov-06-2020 / Updated ∞ </i></small>
