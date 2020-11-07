@@ -5,6 +5,33 @@ Designed, led by [nick-milo](../../zk-public/-nick-milo)
 [linking-your-thinking](../zk-sgs/light%20bucket/linking-your-thinking.md)
 
 
+[Why do I want to *make* notes?](shanna-as-note-maker)
+
+
+
+
+
+
+
+
+
+hx of notes
+note formats and future proofing
+future can be its own note
+failures of note taking
+failures of systems
+
+idea emergence its own area
+
+fluid framework
+
+relationships
+
+maps
+
+home note
+
+
 [note-taking-vs-note-making](../zk-sgs/light%20bucket/note-taking-vs-note-making.md)
 
 
