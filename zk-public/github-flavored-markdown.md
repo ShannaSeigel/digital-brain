@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: GitHub Flavored Markdown
 author: Shanna
 ---

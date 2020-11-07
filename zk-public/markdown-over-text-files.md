@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: md over txt
 author: Shanna
 ---

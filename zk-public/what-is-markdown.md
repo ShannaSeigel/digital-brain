@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: What is Markdown?
 author: Shanna
 ---

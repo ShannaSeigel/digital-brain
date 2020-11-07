@@ -1,3 +1,9 @@
+---
+# layout: note
+title: Shanna's Home Note
+author: Shanna
+---
+
 <small>↙ [Obsidian Publish](index) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻

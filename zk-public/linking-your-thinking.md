@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: Linking Your Thinking Concept
 author: Shanna
 ---

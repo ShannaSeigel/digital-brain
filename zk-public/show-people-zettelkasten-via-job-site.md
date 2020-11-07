@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: -
 author: Shanna
 ---

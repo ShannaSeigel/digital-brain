@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: Markdown Test Text
 author: Shanna
 ---

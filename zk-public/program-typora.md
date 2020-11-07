@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: Typora Program
 author: Shanna
 ---

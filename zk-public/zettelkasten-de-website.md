@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: zk.de site
 author: Shanna
 ---

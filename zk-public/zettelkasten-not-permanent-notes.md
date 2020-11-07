@@ -1,5 +1,5 @@
 ---
-layout: note
+# layout: note
 title: Forget Permanent Notes
 author: Shanna
 ---
