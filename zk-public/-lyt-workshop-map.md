@@ -2,12 +2,15 @@
 # Linking Your Thinking Course
 Fall/Winter 2020
 Designed, led by [Nick Milo](../../zk-public/-nick-milo)
+
+
+
 [linking-your-thinking](linking-your-thinking)
 
 
 [Why do I want to *make* notes?](shanna-as-note-maker)
 
-
+[shanna-as-note-maker](shanna-as-note-maker.md)
 
 
 
