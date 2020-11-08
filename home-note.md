@@ -13,7 +13,7 @@ author: Shanna
 }
 table.moctable td, table.moctable th {
   border: 0px solid #ffffff;
-  padding: 10px 5px;
+  padding: 10px;
 }
 </style>
 
@@ -39,7 +39,7 @@ table.moctable td, table.moctable th {
 <table class="moctable">
 <tr>
 <td>cell1_1 is here</td>
-<td>cell2_1</td>
+<td>cell2_1 hello</td>
 <td>cell3_1</td>
 <td>cell4_1</td>
 </tr>
