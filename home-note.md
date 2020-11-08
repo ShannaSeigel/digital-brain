@@ -4,19 +4,6 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-<style>
-	table.moctable {
-  border: 0px solid #ffffff;
-  width: 100%;
-  text-align: left;
-  border-collapse: collapse;
-}
-table.moctable td, table.moctable th {
-  border: 0px solid #ffffff;
-  padding: 10px;
-}
-</style>
-
 <small>↙ [Obsidian Publish](index) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻
@@ -32,24 +19,10 @@ table.moctable td, table.moctable th {
 ### Maps of Content (MOCs)
 
 &nbsp;&nbsp;&nbsp;&nbsp; → [Markdown MOC](zk-public/-markdown.md) 
+
 &nbsp;&nbsp;&nbsp;&nbsp; → [Zettelkasten MOC](zk-public/-zettelkasten.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp; → [LYT Course Links](zk-public/-lyt-workshop-map.md)
-
-
-<table class="moctable">
-<tr>
-<td>[Markdown MOC](zk-public/-markdown.md) </td>
-<td>cell2_1 hello</td>
-<td>cell3_1</td>
-<td>cell4_1</td>
-</tr>
-
-<tr>
-<td>[Zettelkasten MOC](zk-public/-zettelkasten.md)</td>
-<td>[LYT Course Links](zk-public/-lyt-workshop-map.md)</td>
-</tr>
-	
-</table>
 
 
 
