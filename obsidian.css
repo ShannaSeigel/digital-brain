@@ -116,7 +116,7 @@ experience. Remove each line if you want to re-activate the feature */
 
   --base-h:0;       /* Base hue */
   --base-s:0%;      /* Base saturation */
-  --base-d:15%;     /* Base lightness Dark Mode  - 0 is black */
+  --base-d:10%;     /* Base lightness Dark Mode  - 0 is black */
   --base-l:96%;     /* Base lightness Light Mode  - 100 is white */
   --accent-h:201;   /* Accent hue */
   --accent-s:17%;   /* Accent saturation */
