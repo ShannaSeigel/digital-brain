@@ -8,7 +8,7 @@ author: Shanna
 
 # Linking Your Thinking Course
 Fall/Winter 2020
-Designed, led by [Nick Milo](../../zk-public/-nick-milo)
+Designed, led by [Nick Milo](../../zk-public/-nick-milo) / 
 [Linking Your Thinking Concept](linking-your-thinking)
 
 ## Basics
