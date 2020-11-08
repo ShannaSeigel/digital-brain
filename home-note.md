@@ -4,6 +4,32 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
+<style>
+	table.moctable {
+  border: 0px solid #1C6EA4;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.moctable td, table.moctable th {
+  border: 0px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.moctable tfoot td {
+  font-size: 14px;
+}
+table.moctable tfoot .links {
+  text-align: right;
+}
+table.moctable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+</style>
+
 <small>↙ [Obsidian Publish](index) / [shanna.fyi](https://shanna.fyi/)</small>
 
 # Digital Brain Lvl5 👩🏻
@@ -23,16 +49,14 @@ author: Shanna
 &nbsp;&nbsp;&nbsp;&nbsp; → [LYT Course Links](zk-public/-lyt-workshop-map.md)
 
 
-<style>
-table {border: 0; width:100%; padding: 15px;}
-td {border: 0; width: 30%;}
-</style>
-<table>
-	<tr>
-		<td>yes</td>
-		<td>no</td>
-	</tr>	
-</table>	
+<table class="moctable">
+<tr>
+<td>cell1_1</td>
+<td>cell2_1</td>
+<td>cell3_1</td>
+<td>cell4_1</td>
+</tr>
+</table>
 
 
 
