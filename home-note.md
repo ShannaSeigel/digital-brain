@@ -22,7 +22,13 @@ author: Shanna
 &nbsp;&nbsp;&nbsp;&nbsp; → [Zettelkasten MOC](zk-public/-zettelkasten.md)
 &nbsp;&nbsp;&nbsp;&nbsp; → [LYT Course Links](zk-public/-lyt-workshop-map.md)
 
-<table border=0 border-color=#ffffff width=100%>
+
+<style>
+table {
+    width:100%;
+}
+</style>
+<table>
 	<tr>
 		<td>yes</td>
 		<td>no</td>
