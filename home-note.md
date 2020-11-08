@@ -18,10 +18,8 @@ author: Shanna
 
 ### Maps of Content (MOCs)
 
-&nbsp;&nbsp;&nbsp;&nbsp; → [Markdown MOC](zk-public/-markdown.md) 
-
+&nbsp;&nbsp;&nbsp;&nbsp; → [Markdown MOC](zk-public/-markdown.md)
 &nbsp;&nbsp;&nbsp;&nbsp; → [Zettelkasten MOC](zk-public/-zettelkasten.md)
-
 &nbsp;&nbsp;&nbsp;&nbsp; → [LYT Course Links](zk-public/-lyt-workshop-map.md)
 
 
