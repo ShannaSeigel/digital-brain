@@ -30,15 +30,12 @@ author: Shanna
 
 
 
+#sgs-to-review additional notes
 
 <!---
-
-#sgs-to-review 
-
 possibly related future notes when they get written:
 what notes are or what evergreen notes are
 system trust or that article to "use your system, stop playing with" on zk.de
-
 -->
 
 

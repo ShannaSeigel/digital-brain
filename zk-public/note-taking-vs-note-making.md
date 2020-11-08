@@ -40,8 +40,9 @@ The *note taker* vs the *note maker.* The note taker may be highlighting or summ
 
 
 
-
+<!--
 diif note? benefits of note making per nick?
+-->
 
 #sgs-to-develop 
 
