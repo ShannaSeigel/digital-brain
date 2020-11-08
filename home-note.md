@@ -22,6 +22,15 @@ author: Shanna
 &nbsp;&nbsp;&nbsp;&nbsp; → [Zettelkasten MOC](zk-public/-zettelkasten.md)
 &nbsp;&nbsp;&nbsp;&nbsp; → [LYT Course Links](zk-public/-lyt-workshop-map.md)
 
+<table border=0 border-color=#ffffff width=100%>
+	<tr>
+		<td>yes</td>
+		<td>no</td>
+	</tr>	
+</table>	
+
+
+
 My first experiment with a map of content was while I learned how to use Markdown (and Obsidian). Thanks to [Nick-Milo](zk-public/-nick-milo.md) and the folks at [zettelkasten-de](zk-public/zettelkasten-de-website.md) for first introducing the idea of structure notes or maps for my digital notes.
 
 
