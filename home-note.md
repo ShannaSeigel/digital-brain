@@ -24,7 +24,7 @@ author: Shanna
 
 
 <style>
-table {border: 0; width:100%; padding: 15px;}
+table, th, td {border: 0; width:100%; padding: 15px;}
 </style>
 <table>
 	<tr>
