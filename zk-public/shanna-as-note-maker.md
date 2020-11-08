@@ -24,10 +24,7 @@ author: Shanna
 	- Have to consider [future proofing](../../-box/what-is-future-proof.md) my data
 
 
-> "...it matters how you set up your digital library so that will grow and evolve with you... throughout your entire life... Because if you can’t rely on your digital notes—you’re just one step away from digital dementia."  --
-
-
-[Nick Milo](../../zk-public/-nick-milo.md), [LYT Workshop 2020](../../zk-public/-lyt-workshop-map.md)
+> "...it matters how you set up your digital library so that will grow and evolve with you... throughout your entire life... Because if you can’t rely on your digital notes—you’re just one step away from digital dementia."  --[Nick Milo](../../zk-public/-nick-milo.md), [LYT Workshop 2020](../../zk-public/-lyt-workshop-map.md)
 
 ↳ *I can't decide if this is take it too depressing or if it feels accurate*
 
