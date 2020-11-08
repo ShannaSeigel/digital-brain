@@ -24,11 +24,9 @@ author: Shanna
 
 
 <style>
-table {
-    width:100%;
-}
+table {border: 5 blue; width:100%;}
 </style>
-<table>
+<table border=3>
 	<tr>
 		<td>yes</td>
 		<td>no</td>
