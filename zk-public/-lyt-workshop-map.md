@@ -11,16 +11,20 @@ Fall/Winter 2020
 Designed, led by [Nick Milo](../../zk-public/-nick-milo)
 [Linking Your Thinking Concept](linking-your-thinking)
 
-
+## Basics
+[Note Taking vs. Note Making](note-taking-vs-note-making)
 [Why do I want to *make* notes?](shanna-as-note-maker)
 
-[shanna-as-note-maker md file](shanna-as-note-maker.md)
-
-
-[map a roo](-lyt-workshop-map.md)
 
 
 
+---
+
+
+rough material
+
+
+future directions:
 
 hx of notes
 note formats and future proofing
@@ -39,7 +43,7 @@ maps
 home note
 
 
-[note-taking-vs-note-making](../zk-sgs/light%20bucket/note-taking-vs-note-making.md)
+
 
 
 
