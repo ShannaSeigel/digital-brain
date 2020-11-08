@@ -38,11 +38,17 @@ table.moctable td, table.moctable th {
 
 <table class="moctable">
 <tr>
-<td>cell1_1 is here</td>
+<td>[Markdown MOC](zk-public/-markdown.md) </td>
 <td>cell2_1 hello</td>
 <td>cell3_1</td>
 <td>cell4_1</td>
 </tr>
+
+<tr>
+<td>[Zettelkasten MOC](zk-public/-zettelkasten.md)</td>
+<td>[LYT Course Links](zk-public/-lyt-workshop-map.md)</td>
+</tr>
+	
 </table>
 
 
