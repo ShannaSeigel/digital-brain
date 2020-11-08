@@ -24,9 +24,9 @@ author: Shanna
 
 
 <style>
-table {border: 5 blue; width:100%;}
+table {border: 0; width:100%; padding: 15px;}
 </style>
-<table border=3>
+<table>
 	<tr>
 		<td>yes</td>
 		<td>no</td>
