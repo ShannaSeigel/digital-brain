@@ -21,7 +21,6 @@ The *note taker* vs the *note maker.* The note taker may be highlighting or summ
 				<li></li>
 				<li></li>
 				<li></li>
-				makes
 			</ul>
 		</td>
 		

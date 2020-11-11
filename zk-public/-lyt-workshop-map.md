@@ -25,6 +25,7 @@ Designed, led by [Nick Milo](../../zk-public/-nick-milo) /
 rough material
 
 
+
 future directions:
 
 hx of notes
@@ -60,26 +61,26 @@ home note
 ↓ could change these to related notes i havent done anything with yet
 
 ## Pre-Workshop
-- [Five levels of idea emergence - LYT Webinar](../zk-sgs/light%20bucket/2020-10-17%20LYT%20Webinar.md)
+- [Five levels of idea emergence - LYT Webinar](../zz%20lyt%20bucket/2020-10-17%20LYT%20Webinar)
 - [LYT workshop journal]](../zk-sgs/light%20bucket/202010231402-lyt-workshop-journal.md)
 
 
 
 
 ## Older Notes
-- [202008132035 MOC-LYT system](../zk-sgs/light%20bucket/202008132035%20MOC-LYT%20system.md)
-- [202010132153-reflecting-on-lyt-videos](../zk-sgs/light%20bucket/202010132153-reflecting-on-lyt-videos.md)
+- [202008132035 MOC-LYT system](../zz%20lyt%20bucket/202008132035%20MOC-LYT%20system)
+- [202010132153-reflecting-on-lyt-videos](../zz%20lyt%20bucket/202010132153-reflecting-on-lyt-videos)
 
 
 
 
 ## Workshop Materials
 - [LYT Glossary](https://publish.obsidian.md/lyt-kit/LYT+Glossary)
-- [202010271205-lyt-week-0-meeting](../zk-sgs/light%20bucket/202010271205-lyt-week-0-meeting.md)
-- [lyt-discord-goals](../zk-sgs/light%20bucket/lyt-discord-goals.md)
-- [202010302046-lyt-unit-1-materials](../zk-sgs/light%20bucket/202010302046-lyt-unit-1-materials.md)
-- [202011030547-lyt-drivers](../zk-sgs/light%20bucket/202011030547-lyt-drivers.md)
-- [2020-11-06-unit-2-notes](../zk-sgs/light%20bucket/2020-11-06-unit-2-notes.md)
+- [202010271205-lyt-week-0-meeting](../zz%20lyt%20bucket/202010271205-lyt-week-0-meeting)
+- [lyt-discord-goals](../zz%20lyt%20bucket/lyt-discord-goals)
+- [202010302046-lyt-unit-1-materials](../zz%20lyt%20bucket/202010302046-lyt-unit-1-materials)
+- [202011030547-lyt-drivers](../zz%20lyt%20bucket/202011030547-lyt-drivers)
+- [2020-11-06-unit-2-notes](../zz%20lyt%20bucket/2020-11-06-unit-2-notes)
 
 
 ## next steps
