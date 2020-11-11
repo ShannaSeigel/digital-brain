@@ -4,11 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-<img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/doist-eisenhower-matrix-800px.png" align=center> [^1]
-
-test
-
-<img src="shanna-fyi/images/doist-eisenhower-matrix-800px.png">
+<img src="shanna-fyi/images/doist-eisenhower-matrix-800px.png"> [^1]
 
 
 
