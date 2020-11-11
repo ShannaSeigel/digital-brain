@@ -4,7 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![](shanna-fyi/images/doist-eisenhower-matrix.png)
+![](shanna-fyi/images/doist-eisenhower-matrix-800px.png)
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
@@ -21,7 +21,7 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 <br>
 
 ### Topics I'm Exploring
-- [ ] Add as I process more raw notes
+☑️ Add as I process more raw notes
 
 <br>
 
