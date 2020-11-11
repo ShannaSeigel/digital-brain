@@ -4,9 +4,10 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![](obsidian-resources/imported-images/2.4%20Doist%20Eisenhower%20Matrix%20Blog.png)
+![](shanna-fyi/images/doist-eisenhower-matrix.png)
 
-😌[Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
+😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
+
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
 <br>
 
