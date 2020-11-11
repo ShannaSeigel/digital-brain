@@ -4,7 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![](shanna-fyi/images/doist-eisenhower-matrix-800px.png)
+![](shanna-fyi/images/doist-eisenhower-matrix-800px.png)[^1]
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
@@ -37,13 +37,14 @@ A few [action tags](-Action%20Tags.md) under review for usefulness
 
 
 ### Reference Info 📌
-- link back to higher order note with `,+b` to get `<small>← [</small>`[^1]
+- link back to higher order note with `,+b` to get `<small>← [</small>`[^2]
 - insert back button with `.+,+b` to get `<small>← [</small>`
 
 😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) #sgs-to-process 
 
 
-[^1]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
+[^1]: Image from [Doist Blog](https://blog.doist.com/)
+[^2]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
 
 
 ---
