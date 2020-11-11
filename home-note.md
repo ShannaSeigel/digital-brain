@@ -6,8 +6,6 @@ author: Shanna
 
 <img src="shanna-fyi/images/doist-eisenhower-matrix-800px.png"> [^1]
 
-
-
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
@@ -16,8 +14,8 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 ### Maps of Content (MOCs)
 
-→ [Markdown MOC](zk-public/-markdown.md) 
-→ [Zettelkasten MOC](zk-public/-zettelkasten.md) 
+→ [Markdown MOC](zk-public/-markdown.md) <br>
+→ [Zettelkasten MOC](zk-public/-zettelkasten.md) <br>
 → [LYT Course Links](zk-public/-lyt-workshop-map.md) 
 
 <br>
