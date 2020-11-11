@@ -4,7 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![](shanna-fyi/images/doist-eisenhower-matrix-800px.png)[^1]
+<img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/doist-eisenhower-matrix-800px.png" align=center> [^1]
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
