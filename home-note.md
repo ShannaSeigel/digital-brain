@@ -6,6 +6,12 @@ author: Shanna
 
 <img src="https://raw.githubusercontent.com/ShannaSeigel/digital-brain/main/shanna-fyi/images/doist-eisenhower-matrix-800px.png" align=center> [^1]
 
+test
+
+<img src="shanna-fyi/images/doist-eisenhower-matrix-800px.png">
+
+
+
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
