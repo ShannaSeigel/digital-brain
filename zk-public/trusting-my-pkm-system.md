@@ -1,3 +1,9 @@
+---
+# layout: note
+title: Trusting My Systems
+author: Shanna
+---
+
 i have notes about this, from zk-de and elsewhere about *using* systems over playing with them and trusting them, such as in GTD. 
 
 #sgs-to-develop 
@@ -19,12 +25,3 @@ at some point i could also review my old notes about [20190924212218 Problem and
 
 <small>↳ <i>Created 11-11-2020 / Updated ∞ </i></small>
 
-
-
-
-
----
-# layout: note
-title: -
-author: Shanna
----
