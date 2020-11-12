@@ -12,24 +12,25 @@ The *note taker* may be highlighting or summarizing someone else's work while th
 
 <table width="90%">
 	<tr>		
-		<td>Note Making</td>
-		<td>Note Taking</td>
+		<td>Note Making Benefits</td>
+		<td>Note Taking Issues</td>
 	</tr>
 	<tr>
-		<td>
+		<td width="50%" valign="top">
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Spend time with my own thoughts on material</li>
+				<li>Can be more fun for developing ideas than summarizing someone else's ideas</li>
+				<li>Helps grow digital library</li>
+				<li>Engage with material and begin relating to other ideas</li>
+				<li>Enhance creative expression</li>
 			</ul>
 		</td>
 		
-		<td>
+		<td width="50%" valign="top">
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				takes
+				<li>Involves highlighting or summarizing someone else's ideas</li>
+				<li>Annotating can give false sense of learning or accomplishment without demonstrating if we understood the material</li>
+				<li>Time spent progressively summarizing/distilling someone else's work can take away time for developing personal ideas</li>
 			</ul>
 		</td>
 	</tr>
