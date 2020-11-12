@@ -42,31 +42,15 @@ The course concludes with participants presenting a capstone project of their ch
 
 ### rough ideas for more notes:
 
-hx of notes
-note formats and future proofing
-future can be its own note
-failures of note taking
-failures of systems
-
-idea emergence its own area
-
-fluid framework
-
-relationships
-
-maps
-
-home note
-
-
-
-
-
-
-
-
-
-
+- hx of notes
+- note formats and future proofing
+- future can be its own note
+- failures of note taking
+- failures of systems
+- idea emergence its own area
+- fluid framework
+- relationships
+- maps
 
 
 
@@ -97,10 +81,9 @@ home note
 
 
 ## next steps
-breaking down content/ideas in my own way
-ordering the ideas here and doing the "idea showdown" 
-reviewing my pkm survey results and thoughts
-add notes to public pkm when ready
+- breaking down content/ideas in my own way
+- reviewing my pkm survey results and thoughts
+- add notes to public pkm when ready
 
 
 - [ ] search for missing notes:  
