@@ -13,15 +13,16 @@ Designed, led by [Nick Milo](../../zk-public/-nick-milo) /
 
 ## Basics
 [Why do I want to *make* notes?](shanna-as-note-maker)
+
 [Note Taking vs. Note Making](note-taking-vs-note-making)
 
 
 
 
 
----
 
-### Workshop Overview
+
+## Workshop Overview
 
 Nick introduced himself and his journey with a digital library. He faced frustrations and likely other people drawn to the LYT course are experiencing a similar frustration with [taking notes over making notes](note-taking-vs-note-making.md)
 
