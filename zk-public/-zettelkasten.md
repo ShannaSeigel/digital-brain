@@ -16,7 +16,7 @@ First learned about zettelkasten from [www.zettelkasten.de](https://zettelkasten
 
 ### Notes About Zettelkasten
 - "How to ZK" [Video Q&A](videos-on-how-to-zk)
-- [There's no such thing as permanent notes](zettelkasten-not-permanent-notes)
+- [There's no such thing as permanent notes](../zk-sgs/zettelkasten-not-permanent-notes)
 
 ### Related Notes
 - [Short blog post about sharing the zk concept with more people](show-people-zettelkasten-via-job-site)

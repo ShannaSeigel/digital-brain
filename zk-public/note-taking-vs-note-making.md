@@ -8,7 +8,7 @@ author: Shanna
 
 # Note Taking vs Note Making
 
-The *note taker* vs the *note maker.* The note taker may be highlighting or summarizing someone else's work while the note maker spends time developing or engaging with their own notes of ideas and options.
+The *note taker* may be highlighting or summarizing someone else's work while the *note maker* spends time developing or engaging with their own notes of ideas and options.
 
 <table width="90%">
 	<tr>		
@@ -38,7 +38,6 @@ The *note taker* vs the *note maker.* The note taker may be highlighting or summ
 
 
 
-
 <!--
 diif note? benefits of note making per nick?
 -->
@@ -62,6 +61,7 @@ Instead of collecting lots of new ideas in a pile where I haven't actually learn
 
 
 
+Concept reviewed in [linking-your-thinking](linking-your-thinking.md) course. See [LYT-workshop-map](-lyt-workshop-map.md).
 
 
 ------------------------

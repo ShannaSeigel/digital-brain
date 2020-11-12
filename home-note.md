@@ -25,7 +25,7 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 <br>
 
-A few [action tags](-Action%20Tags.md) under review for usefulness
+A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under review for usefulness
 
 - #sgs-to-process 
 - #sgs-to-develop 
