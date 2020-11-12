@@ -38,6 +38,15 @@ The *note taker* may be highlighting or summarizing someone else's work while th
 
 Both options, taking notes on material or making notes about reactions, are tools that have their place. In my own notes they can happen simultaneously as I write down a concept and what I think about it. There may also be times where I want to focus on reading and adding a highlight or a quick comment is the best way to remind myself of an idea to explore further in the future.
 
+### The Flow of Note Making
+
+1. Create new ideas, which can include some highlighting of other material, commenting on it, or pulling out the key points
+2. Connecting the new idea to existing notes
+3. Develop ideas (explore in more depth, compare to other ideas)
+4. Create with the new ideas if desired/applicable
+5. ???
+6. Profit!!
+
 
 ### My experiences in note taking
 
