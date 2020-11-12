@@ -36,33 +36,29 @@ The *note taker* may be highlighting or summarizing someone else's work while th
 	</tr>
 </table>
 
+Both options, taking notes on material or making notes about reactions, are tools that have their place. In my own notes they can happen simultaneously as I write down a concept and what I think about it. There may also be times where I want to focus on reading and adding a highlight or a quick comment is the best way to remind myself of an idea to explore further in the future.
+
+
+### My experiences in note taking
+
+On the whole, I can see myself frequently falling into the trap of collecting bookmarks, highlights, whatever, and not really engaging with material. Note *taking* usually ends up *making* more work for me later. By highlighting a bunch of content and/or taking notes that just copy what the material says I create a backlog of "thoughts to process later," which I usually never get around to reviewing. 
+
+After years of jotting down notes, I have a cluttered mess of files that is overwhelming to think about, let alone organize. I often save multiple pages about the same topic to review later with the goal of learning something. But that creates a burden of 20 more things to read before getting to my own ideas. Plus it takes me so long (months to years) to come back to some notes that it's an outdated waste of space. Most anything I'm trying to learn I can search for online. 
+
+
+### I want to stop cataloging someone else's ideas
+
+Instead of collecting lots of new ideas in a pile where I haven't actually learned anything, I can focus on developing the knowledge I already have, in my own words. Creating quality over quantity.
+
+
+
+*Concept reviewed in [linking-your-thinking](linking-your-thinking.md) course. See [LYT-workshop-map](-lyt-workshop-map.md).*
 
 
 
 <!--
 diif note? benefits of note making per nick?
 -->
-
-#sgs-to-develop 
-
-
-
-
-### My failures in note taking
-
-After years of jotting down notes, I have a cluttered mess of files that is overwhelming to think about, let alone organize. For me, I often save multiple pages about the same topic to review later with the goal of learning something. But that creates a burden of 20 more things to read before getting to my own ideas. Plus it takes me so long (months to years) to come back to some bookmarks that it's an outdated waste of space. Most anything I'm trying to learn I can search for online. 
-
-### I want to stop cataloging someone else's ideas
-
-I certainly identify with the idea being discussed in the [LYT workshop](../../zk-public/-lyt-workshop-map.md) that most of my notes are full of someone else's content and/or out-of-date tasks.
-
-Instead of collecting lots of new ideas in a pile where I haven't actually learned anything, I can focus on developing the knowledge I already have, in my own words. Creating quality over quantity.
-
-
-
-
-
-Concept reviewed in [linking-your-thinking](linking-your-thinking.md) course. See [LYT-workshop-map](-lyt-workshop-map.md).
 
 
 ------------------------
