@@ -8,7 +8,7 @@ author: Shanna
 
 # Note Taking vs Note Making
 
-The *note taker* may be highlighting or summarizing someone else's work while the *note maker* spends time developing or engaging with their own notes of ideas and options.
+The *note taker* may be highlighting or summarizing someone else's work while the *note maker* spends time developing or engaging with their own ideas and opinions.
 
 <table width="90%">
 	<tr>		
@@ -20,8 +20,7 @@ The *note taker* may be highlighting or summarizing someone else's work while th
 			<ul>
 				<li>Spend time with my own thoughts on material</li>
 				<li>Can be more fun for developing ideas than summarizing someone else's ideas</li>
-				<li>Helps grow digital library</li>
-				<li>Engage with material and begin relating to other ideas</li>
+				<li>Helps create a more dynamic digital library and conversation partner as you connect ideas</li>
 				<li>Enhance creative expression</li>
 			</ul>
 		</td>
@@ -63,7 +62,7 @@ Instead of collecting lots of new ideas in a pile where I haven't actually learn
 
 *Concept reviewed in [linking-your-thinking](linking-your-thinking.md) course. See [LYT-workshop-map](-lyt-workshop-map.md).*
 
-
+#sgs-task - can link to ideas around creating value and idea emergence when those notes exist
 
 <!--
 diif note? benefits of note making per nick?
@@ -73,4 +72,4 @@ diif note? benefits of note making per nick?
 ------------------------
 
 
-<small>↳ <i>Created Nov-06-2020 / Updated Nov-07-2020 </i></small>
+<small>↳ <i>Created Nov-06-2020 / Updated Nov-12-2020 </i></small>
