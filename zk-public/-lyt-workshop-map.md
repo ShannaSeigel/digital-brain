@@ -84,10 +84,7 @@ The course concludes with participants presenting a capstone project of their ch
 - breaking down content/ideas in my own way
 - reviewing my pkm survey results and thoughts
 - add notes to public pkm when ready
-
-
-- [ ] search for missing notes:  
-
-path: "-box" lyt
+- search for missing notes:  
+	- path: "-box" lyt
 
 
