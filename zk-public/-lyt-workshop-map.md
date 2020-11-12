@@ -13,7 +13,6 @@ Designed, led by [Nick Milo](../../zk-public/-nick-milo) /
 
 ## Basics
 [Why do I want to *make* notes?](shanna-as-note-maker)
-
 [Note Taking vs. Note Making](note-taking-vs-note-making)
 
 
