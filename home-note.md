@@ -11,7 +11,7 @@ author: Shanna
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
 <br>
 
-[emoji-👋-test](emoji-%F0%9F%91%8B-test.md)
+[emoji-👋-test](emoji-%F0%9F%91%8B-test)
 
 ### Maps of Content (MOCs)
 
