@@ -4,7 +4,7 @@ title: What Do I Want to Make Notes?
 author: Shanna
 ---
 
-<small>← <a href="javascript:history.back()">Back</a></small>
+<small>← <a href="javascript:history.back()">Back</a></small> / <small>← [LYT Workshop Map](-lyt-workshop-map.md)</small>
 
 # Why Do I Want to Make Notes?
 

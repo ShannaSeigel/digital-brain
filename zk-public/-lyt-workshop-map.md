@@ -25,7 +25,9 @@ Designed, led by [Nick Milo](../../zk-public/-nick-milo) /
 
 Nick introduced himself and his journey with a digital library. He faced frustrations and likely other people drawn to the LYT course are experiencing a similar frustration with [taking notes over making notes](note-taking-vs-note-making.md)
 
-The course moves through a series of topics with the goal of creating a foundation for a personal knowledge system that fits our individual needs. An idea that has come up multiple times is that there isn't a perfect, one-size-fits-all program or approach to building a digital library. The core idea instead is to create relationships between ideas. By bringing ideas together, through linking, through a map of content, a series of writing prompts, etc., we have a chance to see new ideas emerge. Some topics may converge into a larger idea or diverge into different directions.
+The course moves through a series of topics with the goal of creating a foundation for a personal knowledge system that fits our individual needs. 
+
+An idea that has come up multiple times is that there isn't a perfect, one-size-fits-all program or approach to building a digital library. The core idea instead is to create relationships between ideas. By bringing ideas together, through linking, through a map of content, a series of writing prompts, etc., we have a chance to see new ideas emerge. Some topics may converge into a larger idea or diverge into different directions.
 
 The workshop is designed to focus on these core concepts first (levels of idea emergence) before moving into how to handle new information we may absorb and wish to add to our knowledge library. Nick notes that adding too much structure too soon can get in the way of thinking and that "structure needs to be earned."
 

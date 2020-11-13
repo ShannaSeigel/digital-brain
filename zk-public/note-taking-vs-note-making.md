@@ -62,11 +62,7 @@ Instead of collecting lots of new ideas in a pile where I haven't actually learn
 
 *Concept reviewed in [linking-your-thinking](linking-your-thinking.md) course. See [LYT-workshop-map](-lyt-workshop-map.md).*
 
-#sgs-task - can link to ideas around creating value and idea emergence when those notes exist
-
-<!--
-diif note? benefits of note making per nick?
--->
+#sgs-task - can link to ideas around creating value and idea emergence when those notes exist. More on benefits on note making probably makes sense under value note.
 
 
 ------------------------
