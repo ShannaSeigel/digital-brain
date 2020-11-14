@@ -17,7 +17,7 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 → [Markdown MOC](zk-public/-markdown.md) <br>
 → [Zettelkasten MOC](zk-public/-zettelkasten.md) <br>
-→ [LYT Course MOC](zk-public/-lyt-workshop-map.md) 
+→ [Linking Your Thinking course MOC](zk-public/-lyt-workshop-map.md) 
 
 
 
