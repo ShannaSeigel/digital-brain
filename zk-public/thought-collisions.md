@@ -22,7 +22,7 @@ Discussed the similarity to conflict in storytelling. A character has a complica
 ------------------------
 
 
-#### 🗒Related Notes
+#### 🗒 Related Notes
 
 
 
