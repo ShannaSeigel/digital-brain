@@ -6,7 +6,7 @@ author: Shanna
 
 # Webinar on The Reasonable Robot: AI and the Law
 
-Author Ryan Abbott, professor of law and health sciences, speaking about his recent book *["The Reasonable Robot: Artificial Intelligence and the Law"](https://thereasonablerobot.com/)* Webinar hosted by the Center for Data Innovation, moderated by Daniel Castro, organization director. November 13, 2020.
+Author Ryan Abbott, professor of law and health sciences, speaking about his recent book *["The Reasonable Robot: Artificial Intelligence and the Law"](https://thereasonablerobot.com/).* Webinar hosted by the Center for Data Innovation, moderated by Daniel Castro, organization director. November 13, 2020.
 - [Goodreads link](https://www.goodreads.com/book/show/48989663-the-reasonable-robot?from_search=true&from_srp=true&qid=XJ4YR2pj4U&rank=1)
 - [Webinar link](https://www.youtube.com/watch?v=s8VglfNKjLs)
 - [Past lectures from Center for Data Innovation](https://www.eventbrite.com/o/center-for-data-innovation-5577375235)
