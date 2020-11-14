@@ -4,7 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![doist-eisenhower-matrix-800px](shanna-fyi/images/doist-eisenhower-matrix-800px.png)[^1]
+![doist-eisenhower-matrix-800px](shanna-fyi/images/doist-eistenhower-matrix-1012.png)[^1]
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
@@ -18,12 +18,12 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 → [Zettelkasten MOC](zk-public/-zettelkasten.md) <br>
 → [LYT Course MOC](zk-public/-lyt-workshop-map.md) 
 
-<br>
+
 
 ### Interesting New Notes
 [AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
 
-<br>
+
 
 A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under review for usefulness
 
@@ -33,7 +33,8 @@ A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under
 - #sgs-read-more-on-subject 
 - #sgs-brainstorming 
 
-<br>
+
+
 
 
 ### Reference Info 📌
