@@ -6,9 +6,10 @@ author: Shanna
 
 ![doist-eisenhower-matrix-800px](shanna-fyi/images/doist-eistenhower-matrix-1012.png)[^1]
 
-😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
+
+😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 <br>
 
 
@@ -49,5 +50,5 @@ A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under
 
 ---
 
-<small>↳ <i>Created Oct-18-2020 / Updated Nov-11-2020 </i></small>
+<small>↳ <i>Created Oct-18-2020 / Updated Nov-14-2020 </i></small>
 
