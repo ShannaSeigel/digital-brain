@@ -11,12 +11,14 @@ Fall/Winter 2020, cohort 2 /
 Designed, led by [Nick Milo](../../zk-public/-nick-milo) / 
 [Linking Your Thinking Concept](linking-your-thinking)
 
-## Basics
-- [Why do I want to *make* notes?](shanna-as-note-maker)
+## Getting Started
 - [Note Taking vs. Note Making](note-taking-vs-note-making)
+- [Why do I want to *make* notes?](shanna-as-note-maker)
 
 
-
+## Components of Linked Notes
+- [Maps of Content, Explained](map-of-content-explained)
+	- [Thought Collisions](thought-collisions)
 
 
 
