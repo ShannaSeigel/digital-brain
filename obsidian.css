@@ -86,6 +86,9 @@ experience. Remove each line if you want to re-activate the feature */
 }
 */
 
+/* remove file title name from Obsidian Publish page */
+.page-header { display:none; }
+
 /* Remove this if you re-enable status bar */
 .workspace-split.mod-left-split > .workspace-leaf-resize-handle,
 .workspace-split.mod-right-split > .workspace-leaf-resize-handle {

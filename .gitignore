@@ -7,7 +7,6 @@ bookmark-inspo-tagged/
 date-stamped/
 experiment-logs/
 obsidian-resources/
-planning docs ✓
 shanna-fyi/old-needs-review
 shanna-fyi/jekyll-page-templates
 ShannaSeigel.github.io/
@@ -15,6 +14,11 @@ slipbox/
 slipbox to review and add back/
 zk-sgs/
 zz lyt bucket/
+planning*/
+/*.md
+!/index.md
+!/home-note.md
+!/readme.md
 
 
 # Files to Ignore
