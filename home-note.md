@@ -25,6 +25,13 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 
 
+### Reference Info 📌
+- link back to higher order note with `,+b` to get `<small>← [</small>`[^2]
+- insert back button with `.+,+b` to get `<small>← [</small>`
+
+😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) #sgs-to-process 
+
+
 A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under review for usefulness
 
 - #sgs-to-process 
@@ -34,14 +41,6 @@ A few [action tags](planning%20docs%20%E2%9C%93/Action%20Tags%20for%20PKM) under
 - #sgs-brainstorming 
 
 
-
-
-
-### Reference Info 📌
-- link back to higher order note with `,+b` to get `<small>← [</small>`[^2]
-- insert back button with `.+,+b` to get `<small>← [</small>`
-
-😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) #sgs-to-process 
 
 
 [^1]: Image from [Doist Blog](https://blog.doist.com/)
