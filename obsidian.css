@@ -226,7 +226,7 @@ experience. Remove each line if you want to re-activate the feature */
 SPECIAL FEATURES
 
 Frameless mode on macOS only */
-
+/*
 .mod-macos .titlebar-button-container {
   display:none !important;
 }
@@ -245,7 +245,7 @@ Frameless mode on macOS only */
 }
 .mod-macos.is-frameless {
   padding-top:0px !important;
-}
+} */
 .mod-macos .workspace-split.mod-right-split > .workspace-tabs,
 .mod-macos .workspace-split.mod-root .view-header {
   padding-top:4px;

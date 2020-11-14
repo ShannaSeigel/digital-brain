@@ -20,8 +20,8 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 <br>
 
-### Topics I'm Exploring
-☑️ Add as I process more raw notes
+### Interesting New Notes
+[AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
 
 <br>
 

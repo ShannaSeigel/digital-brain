@@ -62,7 +62,7 @@ The course concludes with participants presenting a capstone project of their ch
 
 ## Pre-Workshop
 - [Five levels of idea emergence - LYT Webinar](../zz%20lyt%20bucket/2020-10-17%20LYT%20Webinar)
-- [LYT workshop journal]](../zk-sgs/light%20bucket/202010231402-lyt-workshop-journal.md)
+- [202010231402-lyt-workshop-journal](../zz%20lyt%20bucket/202010231402-lyt-workshop-journal.md)]
 
 
 
