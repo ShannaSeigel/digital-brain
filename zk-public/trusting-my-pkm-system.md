@@ -16,7 +16,7 @@ at some point i could also review my old notes about [20190924212218 Problem and
 ------------------------
 
 
-#### 🗒Related Notes
+#### 🗒 Related Notes
 
 
 

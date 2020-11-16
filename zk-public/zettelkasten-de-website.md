@@ -25,7 +25,7 @@ Next:
 <br>
 
 
-#### 🗒Related Notes
+#### 🗒 Related Notes
 [zettelkasten-overview](../mocs/zettelkasten-overview)
 
 [zk-de featured on a job website](../../zk-private/show-people-zettelkasten-via-job-site)

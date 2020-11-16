@@ -34,6 +34,6 @@ Several implementations of CommonMark exist, including:
 
 ---
 
-🗒Related Notes: [What is Markdown?](../zk-public/what-is-markdown)
+🗒 Related Notes: [What is Markdown?](../zk-public/what-is-markdown)
 
 <small>↳ <i>Created Aug-01-2020 / Updated ∞ </i></small>

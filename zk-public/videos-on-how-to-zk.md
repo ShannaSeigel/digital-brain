@@ -43,7 +43,7 @@ author: Shanna
 <small>↳ <i>Created Oct-20-2020 / Updated ∞ </i></small>
 <br>
 
-#### 🗒Related Notes
+#### 🗒 Related Notes
 [zettelkasten-de-website](../slipbox/zettelkasten-de-website)
 
 

@@ -133,7 +133,7 @@ Abbott notes that a lot of these ideas have not become wide-spread social issues
 ------------------------
 
 
-#### 🗒Related Notes
+#### 🗒 Related Notes
 
 
 
