@@ -22,8 +22,8 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 
 ### Interesting New Notes
-[AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
-[2020-11-16 FLOW eBook](zk-public/ebook-summary-flow) - My attempt at taking down notes while reading this book
+- [AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
+- [2020-11-16 Reading Flow eBook](zk-public/ebook-summary-flow) - My attempt at taking down notes while reading this book
 
 
 

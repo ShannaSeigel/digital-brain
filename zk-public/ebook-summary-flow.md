@@ -1,14 +1,16 @@
 # Flow eBook
 
 **Flow: The Psychology of Optimal Experience**
+
 *Mihaly Csikszentmihalyi, 1990.*
+
 *[Goodreads](https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true&qid=Bi4Tm0s8Lp&rank=1)*
 
-Citation: [csikszentmihalyi-1990-flow-book](citations-apa/csikszentmihalyi-1990-flow-book.md)
+Citation: [csikszentmihalyi-1990-flow-book](../citations-apa/csikszentmihalyi-1990-flow-book.md)
 
 
 
-Have the ebook, looked at some summaries for a quick intro [BOOK Flow Summaries.md](BOOK Flow Summaries.md) 
+Have the ebook, looked at some summaries for a quick intro [book-cliffnotes-flow](book-cliffnotes-flow.md)
 
 Flow is broken down into 10 chapters.
 
