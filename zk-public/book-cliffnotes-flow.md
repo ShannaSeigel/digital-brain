@@ -77,3 +77,7 @@ To find the sweet spot between boredom and anxiety you need a few things:
 - Keep practicing how to concentrate fully on the task at hand
 - Keep developing skills
 - Keep raising the stakes, step further and further from comfort zone
+
+
+------------------------
+<small>↳ <i>Created Nov-16-2020 / Updated ∞ </i></small>
