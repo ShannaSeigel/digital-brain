@@ -40,17 +40,23 @@ I'm down for the challenge!
 
 ## 1: Happiness Revisited
 
+> “TWENTY-THREE HUNDRED YEARS AGO Aristotle concluded that, more than anything else, men and women seek happiness. While happiness itself is sought for its own sake, every other goal—health, beauty, money, or power—is valued only because we expect that it will make us happy.”
+>
+> Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books. 
+
+Seems like human motivations haven't changed and our understanding of how to find happiness (at least in 2020, in my tiny corner of the US) still seems misguided.
+
+- On a lighter note, this reminds me of my "People Were People" project that never got off the ground. I wanted to showcase wholesome ways people haven't changed over hundreds or thousands of years.
+
+
+
+202011162156: Switching to just reading, can pick up highlights later?
 
 
 
 
 
-
-
-
-
-
-## 2: 
+## 2:
 
 
 
