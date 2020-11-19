@@ -20,29 +20,29 @@ My goal isn't to replicate the book, I have the book for that. **MY GOAL IS TO T
 
 
 
-## Preface
+### Preface
 
 Author is summarizing decades of work for members of the public.  
 
 > “positive aspects of human experience—joy, creativity, the process of total involvement with life I call flow”
 >
-> Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books. 
+> <small>*Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books.*</small>
 
 Not a book full of insider tips on happiness. *Thank goodness because I'm kind of sick of those.* The goal is to present general principles. Like a recipe or pattern, gives the basic blocks and I can build from there.
 
 > “...transform boring and meaningless lives into ones full of enjoyment. There is no promise of easy short-cuts in these pages. But for readers who care about such things, there should be enough information to make possible the transition from theory to practice.”
 >
-> Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books. 
+> <small>*Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books.*</small>
 
 I'm down for the challenge!
 
 
 
-## 1: Happiness Revisited
+### 1: Happiness Revisited
 
 > “TWENTY-THREE HUNDRED YEARS AGO Aristotle concluded that, more than anything else, men and women seek happiness. While happiness itself is sought for its own sake, every other goal—health, beauty, money, or power—is valued only because we expect that it will make us happy.”
 >
-> Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books. 
+> <small>*Excerpt From: Mihaly Csikszentmihalyi. “Flow: The Psychology of Optimal Experience.” Apple Books.*</small>
 
 Seems like human motivations haven't changed and our understanding of how to find happiness (at least in 2020, in my tiny corner of the US) still seems misguided.
 
@@ -56,7 +56,7 @@ Seems like human motivations haven't changed and our understanding of how to fin
 
 
 
-## 2:
+### 2:
 
 
 
@@ -64,7 +64,7 @@ Seems like human motivations haven't changed and our understanding of how to fin
 
 
 
-# Related (?)
+## Related (?)
 
 Trying to find citation for book, got these links instead:
 - [a response to MC's work](https://www.sciencedirect.com/science/article/abs/pii/0732118X88900025?via%3Dihub)

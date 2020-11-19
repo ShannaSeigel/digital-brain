@@ -44,7 +44,7 @@ Summary's 3 Lessons
 
 
 
-Related topics:
+Related topics from summary author:
 
 - Mindset, the difference between a fixed and growth mindset. [summary here](https://fourminutebooks.com/mindset-summary/). Female author, woo?
   - A fixed mindset assumes talent is everything. You will fail if you're not gifted.
