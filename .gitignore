@@ -1,4 +1,3 @@
-
 # Folders to ignore
 
 .obsidian/
@@ -7,6 +6,7 @@ bookmark-inspo-tagged/
 date-stamped/
 experiment-logs/
 obsidian-resources/
+nsgc aec 2020/
 shanna-fyi/old-needs-review
 shanna-fyi/jekyll-page-templates
 ShannaSeigel.github.io/
@@ -14,11 +14,7 @@ slipbox/
 slipbox to review and add back/
 zk-sgs/
 zz lyt bucket/
-planning*/
-/*.md
-!/index.md
-!/home-note.md
-!/readme.md
+planning-docs/
 
 
 # Files to Ignore
@@ -34,5 +30,7 @@ planning*/
 🎨 Obsidian Themes
 obsidian-shared-vaults
 Hey LYT gang!.md
+Today ☀️.md
+taskpaper.md
 obsidian.css
-planning docs ✓/ABGC Recertification 2020.md
+planning docs ✓/tmp hold/youtube-managing-subs.md

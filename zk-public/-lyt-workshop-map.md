@@ -35,7 +35,15 @@ The course moves through a series of topics with the goal of creating a foundati
 - The workshop is designed to focus on these core concepts first (levels of idea emergence) before moving into how to handle new information we may absorb and wish to add to our knowledge library. Nick notes that adding too much structure too soon can get in the way of thinking and that "structure needs to be earned."
 - Goals include "building our note making muscles" and developing a habit of interacting with our knowledge systems.
 
-
+Nov-17-2020 - session add ons
+more ideas from unit 3 i want to dive into and connect:
+more on what a moc is and it's flexibility. i dont think my first review captures that
+more on higher order notes, i think this is the more nebulous idea for me of calling notes the same thing even though they may have different functions
+	- ties into the same idea of MOCs being v flexible though
+	
+	
+	
+	
 
 #sgs-to-develop - several places to create links in above paragraphs as those notes are created.
 

@@ -64,17 +64,13 @@ Seems like human motivations haven't changed and our understanding of how to fin
 
 
 
-# Related
+# Related (?)
 
 Trying to find citation for book, got these links instead:
-
-[a response to MC's work](https://www.sciencedirect.com/science/article/abs/pii/0732118X88900025?via%3Dihub)
-
-[systems model of creativity](https://link.springer.com/book/10.1007%2F978-94-017-9085-7)
-
-[applications of flow in development, education](https://link.springer.com/book/10.1007%2F978-94-017-9094-9)
-
-[music education application](https://www.tandfonline.com/doi/full/10.1080/13596748.2019.1596432)
+- [a response to MC's work](https://www.sciencedirect.com/science/article/abs/pii/0732118X88900025?via%3Dihub)
+- [systems model of creativity](https://link.springer.com/book/10.1007%2F978-94-017-9085-7)
+- [applications of flow in development, education](https://link.springer.com/book/10.1007%2F978-94-017-9094-9)
+- [music education application](https://www.tandfonline.com/doi/full/10.1080/13596748.2019.1596432)
 
 ------------------------
 <small>↳ <i>Created Nov-16-2020 / Updated ∞ </i></small>
