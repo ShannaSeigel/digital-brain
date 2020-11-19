@@ -1,12 +1,10 @@
 <small>← [Program Experiments](program-software-experiments.md)</small>
 # Drafts by Agile Tortoise
-[Drafts Homepage](https://getdrafts.com/)
-
-Blank space for notes on MacOS/iOS devices. Can push notes to other programs/services as needed or archive notes to keep.
+[Drafts](https://getdrafts.com/) creates blank space for notes on MacOS/iOS devices. Can push notes to other programs/services as needed or archive notes to keep.
 
 
-## Resources
-- See [user guide](https://docs.getdrafts.com/)
+### Resources
+- See [Drafts user guide](https://docs.getdrafts.com/)
 - `⌘e` to bring up Markdown preview window
 - `⌘.` to swap to/from "link mode." (makes links clickable)
 
