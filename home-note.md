@@ -4,8 +4,7 @@ title: Shanna's Home Note
 author: Shanna
 ---
 
-![doist-eisenhower-matrix-800px](shanna-fyi/images/doist-eistenhower-matrix-1012.png)[^1]
-
+![](shanna-fyi/images/tumblr_static_1012x150-title.jpg)
 
 My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
 

@@ -4,6 +4,8 @@ title: My Experiments with Programs
 author: Shanna
 ---
 
+<small>← [Home](../home-note.md)</small>
+
 I sometimes keep a log of tests and reactions when I try a new program. This map would give me a place to pull those experiment logs together instead of a folder.
 
 [Drafts Mac/iOS](zk-public/program-drafts)
