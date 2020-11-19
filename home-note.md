@@ -15,16 +15,14 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 ### Maps of Content (MOCs)
 
-→ [Markdown MOC](zk-public/-markdown.md) <br>
-→ [Zettelkasten MOC](zk-public/-zettelkasten.md) <br>
-→ [Linking Your Thinking course MOC](zk-public/-lyt-workshop-map.md) 
+[Markdown MOC](zk-public/-markdown.md) / [Zettelkasten MOC](zk-public/-zettelkasten.md) / [Linking Your Thinking course MOC](zk-public/-lyt-workshop-map.md)
 
+[Software Experiment Logs](zk-public/program-software-experiments.md)
 
 
 ### Interesting New Notes
 - [AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
 - [Reading "Flow" eBook](zk-public/ebook-summary-flow) - My attempt at taking down notes while reading this book
-
 
 
 ### Reference Info 📌
