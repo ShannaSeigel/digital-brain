@@ -6,7 +6,7 @@ author: Shanna
 
 ![](shanna-fyi/images/tumblr_static_1012x65-title.jpg)
 
-My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself. <ins>I want to be thinking and doing, not wasting time.</ins>  
+My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself.<ins>I want to be thinking and doing, not wasting time.</ins>  
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 <br>
@@ -25,10 +25,12 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 
 
 ### Reference Info 📌
-- link back to higher order note with `,+b` to get `<small>← [</small>`[^2]
-- insert back button with `.+,+b` to get `<small>← [</small>`
+- link back to higher order note with `,+b` to get `<small>← [</small>`[^rt]
+- insert back button with `.+,+b` to get `<small>← <a href="javascript:history.back()">Back</a></small>`
 
-😴 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) #sgs-to-process 
+[^rt]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
+
+[Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) - #sgs-to-process 
 
 
 A few [action tags](planning-docs/Action%20Tags%20for%20PKM) under review for usefulness
@@ -41,9 +43,6 @@ A few [action tags](planning-docs/Action%20Tags%20for%20PKM) under review for us
 
 
 
-
-[^1]: Image from [Doist Blog](https://blog.doist.com/)
-[^2]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
 
 
 ---
