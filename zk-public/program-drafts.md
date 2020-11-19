@@ -11,10 +11,7 @@ Blank space for notes on MacOS/iOS devices. Can push notes to other programs/ser
 - `⌘.` to swap to/from "link mode." (makes links clickable)
 
 
-[Highlights](#Highlights)
-[Issues](#Issues)
-[Possible Uses](#Possible%20Uses)
-[Testing Fonts in Drafts](#Fonts%20in%20Drafts)
+[Highlights](#Highlights) / [Issues](#Issues) / [Possible Uses](#Possible%20Uses) / [Testing Fonts in Drafts](#Fonts%20in%20Drafts)
 
 
 ## Drafts Usage
