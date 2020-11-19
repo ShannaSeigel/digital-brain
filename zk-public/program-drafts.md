@@ -44,7 +44,6 @@ The whole reason I looked at Drafts was because Pretext only allows a monospace 
 - Switched font to "Lexie Reader," which has a similar feel to CS but is intended to be dyslexia friendly (post about Comic Sans for writing also brought up its use for dyslexia, which appears to have mixed evidence).
 - Hiragino Sans 18pt also nice
 
-
 #### iPhone Trials
 - Hiragino Maru Gothic pro. looks nice. Not so comic. Size 18 nice and clear.
 - Chalkboard SE is the closest to CS on phone. 
