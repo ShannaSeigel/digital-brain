@@ -6,7 +6,7 @@ author: Shanna
 
 ![](shanna-fyi/images/tumblr_static_1012x65-title.jpg)
 
-My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself.<ins>I want to be thinking and doing, not wasting time.</ins>  
+My personal knowledge system goal: to stop curating a pile of meaningless notes and to stop creating more work for myself.<ins> I want to be thinking and doing, not wasting time.</ins>  
 
 😌 [Quick tips for limiting distractions](zk-public/tips-for-focusing-on-thinking)
 <br>
@@ -17,7 +17,6 @@ My personal knowledge system goal: to stop curating a pile of meaningless notes 
 [Markdown](zk-public/-markdown.md) / [Zettelkasten](zk-public/-zettelkasten.md) / [Linking Your Thinking course](zk-public/-lyt-workshop-map.md)
 
 [Software Experiment Logs](zk-public/program-software-experiments.md)
-
 
 ### Interesting New Notes
 - [AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020

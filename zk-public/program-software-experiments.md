@@ -9,6 +9,7 @@ author: Shanna
 I sometimes keep a log of tests and reactions when I try a new program. This map would give me a place to pull those experiment logs together instead of a folder.
 
 [Drafts Mac/iOS](zk-public/program-drafts)
+[Drafts Mac/iOS-1](program-drafts.md)
 
 Rough notes I haven't looked at recently:
 - [notion and exist.io](../obsidian-resources/imported-images/bear-notes-with-images/notion%20and%20exist.io/notion%20and%20exist.io.md)
