@@ -8,7 +8,7 @@ A list of resources for working at the same time as others or on your own.
 [My reminder list for keeping focused](tips-for-focusing-on-thinking.md)
 
 ### Discord Server
-Join ["Coworking Live" on Discord](https://discord.gg/XXgUtspcnk). Features study music and scheduled or impromptu work sessions with others.
+Join ["Coworking Live" on Discord](https://discord.gg/qu8XwYGwYm). Features study music and scheduled or impromptu work sessions with others.
 
 ### Cowork with Me Videos
 YouTube playlist for the following videos [here](https://www.youtube.com/playlist?list=PLT_-GgrvrmyOWpPGGAFTxqJwmD_ZDofhs)
