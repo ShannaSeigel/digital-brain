@@ -19,6 +19,7 @@ My knowledge system goal: I want to be thinking and doing, not wasting time. I w
 ### Interesting New Notes
 - [AI and the Law, webinar summary](zk-public/artificial-intelligence-and-law-webinar) - Nov-13-2020
 - [Reading "Flow" eBook](zk-public/ebook-summary-flow) - Notes while reading this book (started Nov-16-2020)
+- [Coworking Resources](zk-public/coworking-resources.md) - Thinking about work or study sessions with other people or simulating the experience (Nov-19-2020)
 
 
 ### Reference Info 📌

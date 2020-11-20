@@ -13,6 +13,8 @@
 
 
 ### Play music without lyrics
+- See [list of YouTube videos](coworking-resources.md) with music & people studying
+- [YouTube Playlist of Jazz/LoFi/Classical Music](https://www.youtube.com/playlist?list=PLZzl2Uy474aK4NZl30lqNXwFmIokd1hJn)
 
 ### Play white noise or use a sound generator
 - *myNoise app I purchased*
