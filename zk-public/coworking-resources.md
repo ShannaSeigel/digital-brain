@@ -4,7 +4,7 @@ title: Coworking Resources
 author: Shanna
 ---
 
-A list of resources for working at the same time as others or on your own.
+A list of resources for working at the same time as others or on your own. [My reminder list for keeping focused](tips-for-focusing-on-thinking.md)
 
 ### Discord Server
 [Join Coworking Live on Discord](https://discord.gg/XXgUtspcnk). Features study music and scheduled or impromptu work sessions with others.
