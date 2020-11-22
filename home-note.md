@@ -3,14 +3,6 @@
 title: Shanna's Home Note
 author: Shanna
 ---
-<style>
-	.table-home-note table, th, td {
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #ff0000;
-	}
-</style>
-
 
 ![](shanna-fyi/images/tumblr_static_1012x65-title.jpg)
 
@@ -22,21 +14,21 @@ LYT Unit 4: The Home Note
 Start building in some more ideas and placeholders for the home note. Will grow with time. I pushed my current links down a bit.
 
 
+| Uptake                         | Action Tags                           |
+| ------------------------------ | ------------------------------------- |
+| use some                       | for thinking #sgs-brainstorming       |
+| used a lot                     | explore #sgs-read-more-on-subject     |
+| probably can delete            | to-do #sgs-task                       |
+| used a lot                     | need to flesh out #sgs-to-develop     |
+| used several times             | need to tidy #sgs-to-process          |
+| using but how is it different? | review, how different? #sgs-to-review |
+*Nov-21-2020*
 
 
-
-
-| Action Tags               |     |     |
-| ------------------------- | --- | --- |
-| #sgs-brainstorming        |     |     |
-| #sgs-read-more-on-subject |     |     |
-| #sgs-task                 |     |     |
-| #sgs-to-develop           |     |     |
-| #sgs-to-process           |     |     |
-| #sgs-to-review            |     |     |
-{:.table-home-note}
-
-
+could have others like log, source, commentary, tutorial?
+courses
+task tags
+future learning
 
 
  Starting Points, Current
@@ -57,7 +49,7 @@ Start building in some more ideas and placeholders for the home note. Will grow 
 - Management of your management
 	- PKM, Knowledge Management
 
-action tags
+
 
 
 	- Inputs
