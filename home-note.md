@@ -22,8 +22,17 @@ Start building in some more ideas and placeholders for the home note. Will grow 
 | used a lot                     | need to flesh out #sgs-to-develop     |
 | used several times             | need to tidy #sgs-to-process          |
 | using but how is it different? | review, how different? #sgs-to-review |
+| [2020-11-21 unit 4 material](zz%20lyt%20bucket/2020-11-21%20unit%204%20material.md)                           |                                       |
+|                                |                                       |
+
 *Nov-21-2020*
 
+
+ideas to be more intentional about / keeping track of my learning:
+[tips-for-improved-sleep](zk-public/tips-for-improved-sleep)
+
+
+[sources-map](zk-public/-sources-map)
 
 could have others like log, source, commentary, tutorial?
 courses
@@ -134,13 +143,14 @@ i was thinking about something like this, similar to Notion dashboard, but make 
 ### Reference Info 📌
 - link back to higher order note with `,+b` to get `<small>← [</small>`[^rt]
 - insert back button with `.+,+b` to get `<small>← <a href="javascript:history.back()">Back</a></small>`
+- type `,+h` to get `<small>← [Home](home-note.md)</small>`
 
 [^rt]: I'm using [Rocket Typist](https://witt-software.com/rockettypist/) by Daniel Witt for auto-text
 
 [Unpublished topics MOC](zk-lyt-pks/mocs/private%20topics%20MOC.md) - #sgs-to-process 
 
 
-A few [action tags](planning-docs/Action%20Tags%20for%20PKM) under review for usefulness
+A few [action tags](planning-docs/not%20in%20todoist/Action%20Tags%20for%20PKM) under review for usefulness
 
 - #sgs-to-process 
 - #sgs-to-develop 
