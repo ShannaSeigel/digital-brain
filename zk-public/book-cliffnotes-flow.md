@@ -1,6 +1,7 @@
 **Book Summaries FLOW: The Psychology of Optimal Experience**
 
 *NOTE: turns out I have this ebook already, should probably just read it.*
+#book #source
 
 
 Mihaly Csikszentmihalyi, 1990. [Goodreads](https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true&qid=Bi4Tm0s8Lp&rank=1)

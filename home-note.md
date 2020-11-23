@@ -22,19 +22,19 @@ Start building in some more ideas and placeholders for the home note. Will grow 
 | used a lot                     | need to flesh out #sgs-to-develop     |
 | used several times             | need to tidy #sgs-to-process          |
 | using but how is it different? | review, how different? #sgs-to-review |
-| [2020-11-21 unit 4 material](zz%20lyt%20bucket/2020-11-21%20unit%204%20material.md)                           |                                       |
-|                                |                                       |
+
 
 *Nov-21-2020*
 
 
 ideas to be more intentional about / keeping track of my learning:
-[tips-for-improved-sleep](zk-public/tips-for-improved-sleep)
+- [tips-for-improved-sleep](zk-public/tips-for-improved-sleep)
+
+more maps:
+- [sources-map](zk-public/-sources-map)
 
 
-[sources-map](zk-public/-sources-map)
-
-could have others like log, source, commentary, tutorial?
+could have others like log, commentary, tutorial?
 courses
 task tags
 future learning
