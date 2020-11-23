@@ -4,7 +4,7 @@ title: -
 author: Shanna
 ---
 
-<small>← [Home](home-note.md)</small>
+<small>← [Home](../home-note)</small>
 
 # Sources
 Can tag notes about a source with `#source`
